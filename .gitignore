@@ -1,0 +1,13 @@
+# Mac / RStudio clutter
+.DS_Store
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.RData
+
+# Unzipped Health Canada files (00_download.R recreates them from allfiles.zip)
+data/raw/dpd/marketed/
+
+# Kept off the public repo
+Project Proposal.pdf
+Testing.R

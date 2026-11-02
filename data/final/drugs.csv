@@ -1,0 +1,1972 @@
+id,name,group,atc_group,atc_group_name,degree,weighted_degree
+DDInter1,Abacavir,Prescription,J,Antiinfectives for systemic use,220,257
+DDInter2,Abaloparatide,Prescription,NA,NA,4,8
+DDInter3,Abametapir (topical),Prescription,NA,NA,366,732
+DDInter4,Abarelix,Prescription,NA,NA,197,441
+DDInter5,Abatacept,Prescription,L,Antineoplastic and immunomodulating agents,71,164
+DDInter6,Abciximab,Prescription,NA,NA,132,314
+DDInter7,Abemaciclib,Prescription,L,Antineoplastic and immunomodulating agents,208,481
+DDInter8,Abiraterone,Prescription,L,Antineoplastic and immunomodulating agents,381,826
+DDInter9,Acalabrutinib,Prescription,L,Antineoplastic and immunomodulating agents,348,879
+DDInter10,Acamprosate,Prescription,N,Nervous system,47,47
+DDInter11,Acarbose,Prescription,A,Alimentary tract and metabolism,369,592
+DDInter12,Acebutolol,Prescription,C,Cardiovascular system,557,977
+DDInter13,Acenocoumarol,Prescription,NA,NA,116,116
+DDInter14,Acetaminophen,OTC,N,Nervous system,625,711
+DDInter15,Acetazolamide,Prescription,S,Sensory organs,308,537
+DDInter16,Acetohexamide,Prescription,NA,NA,360,702
+DDInter17,Acetohydroxamic acid,Prescription,NA,NA,5,11
+DDInter18,Acetylcholine,Prescription,NA,NA,102,198
+DDInter19,Acetylcysteine,Prescription,R,Respiratory system,247,248
+DDInter20,Acetylsalicylic acid,OTC,N,Nervous system,654,964
+DDInter21,Acitretin,Prescription,D,Dermatologicals,113,193
+DDInter22,Aclidinium,Prescription,R,Respiratory system,101,201
+DDInter23,Acrivastine,Prescription,NA,NA,143,289
+DDInter24,Activated charcoal,OTC,A,Alimentary tract and metabolism,76,153
+DDInter25,Acyclovir,Prescription,J,Antiinfectives for systemic use,454,511
+DDInter26,Acyclovir (topical),Prescription,D,Dermatologicals,1,2
+DDInter27,Adalimumab,Prescription,L,Antineoplastic and immunomodulating agents,353,921
+DDInter28,Adapalene,Prescription,NA,NA,55,55
+DDInter29,Adapalene (topical),Prescription,D,Dermatologicals,11,23
+DDInter30,Adefovir dipivoxil,Prescription,NA,NA,43,43
+DDInter31,Adenosine,Prescription,C,Cardiovascular system,274,534
+DDInter32,Afatinib,Prescription,L,Antineoplastic and immunomodulating agents,132,270
+DDInter33,Aflibercept,Prescription,S,Sensory organs,78,184
+DDInter34,Agalsidase beta,Prescription,A,Alimentary tract and metabolism,4,11
+DDInter35,Albendazole,Prescription,NA,NA,96,187
+DDInter36,Albiglutide,Prescription,NA,NA,238,455
+DDInter37,Alclometasone (topical),Prescription,NA,NA,44,44
+DDInter38,Aldesleukin,Prescription,L,Antineoplastic and immunomodulating agents,447,925
+DDInter39,Alectinib,Prescription,L,Antineoplastic and immunomodulating agents,90,187
+DDInter40,Alefacept,Prescription,NA,NA,307,628
+DDInter41,Alemtuzumab,Prescription,L,Antineoplastic and immunomodulating agents,291,605
+DDInter42,Alendronic acid,Prescription,M,Musculo-skeletal system,520,609
+DDInter43,Alfentanil,Prescription,NA,NA,543,1212
+DDInter44,Alfuzosin,Prescription,G,Genito-urinary system and sex hormones,516,1029
+DDInter45,Alimemazine,Prescription,NA,NA,562,1179
+DDInter46,Aliskiren,Prescription,NA,NA,278,518
+DDInter47,Alitretinoin (topical),Prescription,NA,NA,8,17
+DDInter48,Allopurinol,Prescription,M,Musculo-skeletal system,490,543
+DDInter49,Almotriptan,Prescription,N,Nervous system,163,325
+DDInter50,Aloe Vera Leaf,Prescription,NA,NA,40,80
+DDInter51,Alogliptin,Prescription,A,Alimentary tract and metabolism,243,469
+DDInter52,Alosetron,Prescription,NA,NA,128,187
+DDInter53,Alpelisib,Prescription,L,Antineoplastic and immunomodulating agents,280,571
+DDInter54,Alprazolam,Prescription,N,Nervous system,730,1199
+DDInter55,Alprostadil,Prescription,G,Genito-urinary system and sex hormones,138,164
+DDInter56,Alteplase,Prescription,B,Blood and blood forming organs,140,320
+DDInter57,Altretamine,Prescription,NA,NA,120,254
+DDInter58,Aluminum hydroxide,OTC,A,Alimentary tract and metabolism,205,343
+DDInter59,Alvimopan,Prescription,NA,NA,28,78
+DDInter60,Amantadine,Prescription,N,Nervous system,236,349
+DDInter61,Ambenonium,Prescription,NA,NA,53,107
+DDInter62,Ambrisentan,Prescription,C,Cardiovascular system,243,338
+DDInter63,Amcinonide,Prescription,D,Dermatologicals,44,44
+DDInter64,Amifampridine,Prescription,N,Nervous system,198,400
+DDInter65,Amifostine,Prescription,NA,NA,134,245
+DDInter66,Amikacin,Prescription,J,Antiinfectives for systemic use,212,420
+DDInter67,Amikacin (liposome),Prescription,J,Antiinfectives for systemic use,158,364
+DDInter68,Amiloride,Prescription,C,Cardiovascular system,333,628
+DDInter69,Aminobenzoic acid,Prescription,NA,NA,27,61
+DDInter70,Aminocaproic acid,Prescription,NA,NA,75,89
+DDInter71,Aminoglutethimide,Prescription,NA,NA,209,410
+DDInter72,Aminolevulinic acid,Prescription,L,Antineoplastic and immunomodulating agents,94,281
+DDInter73,Aminolevulinic acid (topical),Prescription,L,Antineoplastic and immunomodulating agents,117,234
+DDInter74,Aminophylline,Prescription,R,Respiratory system,279,498
+DDInter75,Aminosalicylic acid,Prescription,NA,NA,43,94
+DDInter76,Amiodarone,Prescription,C,Cardiovascular system,747,1642
+DDInter77,Amisulpride,Prescription,NA,NA,344,886
+DDInter78,Amitriptyline,Prescription,N,Nervous system,743,1469
+DDInter79,Amlodipine,Prescription,C,Cardiovascular system,715,1122
+DDInter80,Ammonium chloride,Prescription,R,Respiratory system,21,26
+DDInter81,Amobarbital,Prescription,NA,NA,493,998
+DDInter82,Amoxapine,Prescription,NA,NA,619,1336
+DDInter83,Amoxicillin,Prescription,J,Antiinfectives for systemic use,271,300
+DDInter84,Amphetamine,Prescription,NA,NA,220,419
+DDInter85,Amphotericin B,Prescription,J,Antiinfectives for systemic use,333,501
+DDInter86,Amphotericin B (cholesteryl sulfate),Prescription,J,Antiinfectives for systemic use,133,291
+DDInter87,Amphotericin B (lipid complex),Prescription,J,Antiinfectives for systemic use,142,309
+DDInter88,Amphotericin B (liposomal),Prescription,J,Antiinfectives for systemic use,132,289
+DDInter89,Ampicillin,Prescription,J,Antiinfectives for systemic use,103,143
+DDInter90,Amprenavir,Prescription,NA,NA,459,1047
+DDInter91,Amrinone,Prescription,NA,NA,17,34
+DDInter92,Amyl Nitrite,Prescription,NA,NA,160,328
+DDInter93,Anagrelide,Prescription,L,Antineoplastic and immunomodulating agents,375,965
+DDInter94,Anakinra,Prescription,L,Antineoplastic and immunomodulating agents,307,637
+DDInter95,Anastrozole,Prescription,L,Antineoplastic and immunomodulating agents,146,165
+DDInter96,Angiotensin II,Prescription,NA,NA,17,34
+DDInter97,Anidulafungin,Prescription,J,Antiinfectives for systemic use,1,1
+DDInter98,Anisindione,Prescription,NA,NA,369,813
+DDInter99,Anistreplase,Prescription,NA,NA,121,276
+DDInter100,Anthrax vaccine,Prescription,NA,NA,186,372
+DDInter101,Anti-inhibitor coagulant complex,Prescription,B,Blood and blood forming organs,5,14
+DDInter102,"Antihemophilic factor, human recombinant",Prescription,NA,NA,3,7
+DDInter103,Antilymphocyte immunoglobulin (horse),Prescription,NA,NA,69,158
+DDInter104,Antithrombin Alfa,Prescription,NA,NA,86,195
+DDInter105,Antithrombin III human,Prescription,NA,NA,111,253
+DDInter106,Antithymocyte immunoglobulin (rabbit),Prescription,NA,NA,69,158
+DDInter107,Apalutamide,Prescription,L,Antineoplastic and immunomodulating agents,531,1232
+DDInter108,Apixaban,Prescription,B,Blood and blood forming organs,323,757
+DDInter109,Apomorphine,Prescription,NA,NA,501,1059
+DDInter110,Apraclonidine,Prescription,S,Sensory organs,344,698
+DDInter111,Apremilast,Prescription,L,Antineoplastic and immunomodulating agents,71,151
+DDInter112,Aprepitant,Prescription,A,Alimentary tract and metabolism,468,888
+DDInter113,Aprotinin,Prescription,B,Blood and blood forming organs,6,15
+DDInter114,Arbutamine,Prescription,NA,NA,63,153
+DDInter115,Ardeparin,Prescription,NA,NA,120,316
+DDInter116,Arformoterol,Prescription,NA,NA,310,623
+DDInter117,Argatroban,Prescription,B,Blood and blood forming organs,147,346
+DDInter118,Aripiprazole,Prescription,N,Nervous system,753,1445
+DDInter119,Armodafinil,Prescription,NA,NA,412,661
+DDInter120,Arsenic trioxide,Prescription,L,Antineoplastic and immunomodulating agents,332,819
+DDInter121,Artemether,Prescription,NA,NA,95,228
+DDInter122,Artesunate,Prescription,P,Antiparasitic products,74,150
+DDInter123,Articaine,Prescription,N,Nervous system,36,71
+DDInter124,Ascorbic acid,OTC,A,Alimentary tract and metabolism,25,34
+DDInter125,Asenapine,Prescription,N,Nervous system,598,1283
+DDInter126,Asparaginase Erwinia chrysanthemi,Prescription,NA,NA,312,630
+DDInter127,Asparaginase Escherichia coli,Prescription,NA,NA,395,820
+DDInter128,Astemizole,Prescription,NA,NA,273,624
+DDInter129,Atazanavir,Prescription,J,Antiinfectives for systemic use,587,1248
+DDInter130,Atenolol,Prescription,C,Cardiovascular system,682,1095
+DDInter131,Atezolizumab,Prescription,L,Antineoplastic and immunomodulating agents,75,178
+DDInter132,Atomoxetine,Prescription,N,Nervous system,429,787
+DDInter133,Atorvastatin,Prescription,C,Cardiovascular system,661,994
+DDInter134,Atovaquone,Prescription,P,Antiparasitic products,146,190
+DDInter135,Atracurium,Prescription,NA,NA,147,300
+DDInter136,Atropine,Prescription,A,Alimentary tract and metabolism,373,566
+DDInter137,Atropine (ophthalmic),Prescription,S,Sensory organs,16,32
+DDInter138,Attapulgite,Prescription,NA,NA,64,115
+DDInter139,Auranofin,Prescription,M,Musculo-skeletal system,129,239
+DDInter140,Aurothioglucose,Prescription,NA,NA,103,218
+DDInter141,Avanafil,Prescription,NA,NA,233,517
+DDInter142,Avapritinib,Prescription,L,Antineoplastic and immunomodulating agents,279,727
+DDInter143,Avatrombopag,Prescription,B,Blood and blood forming organs,51,113
+DDInter144,Avelumab,Prescription,L,Antineoplastic and immunomodulating agents,3,9
+DDInter145,Avibactam,Prescription,NA,NA,1,2
+DDInter146,Axicabtagene ciloleucel,Prescription,L,Antineoplastic and immunomodulating agents,49,120
+DDInter147,Axitinib,Prescription,L,Antineoplastic and immunomodulating agents,176,387
+DDInter148,Azacitidine,Prescription,L,Antineoplastic and immunomodulating agents,85,199
+DDInter149,Azatadine,Prescription,NA,NA,250,504
+DDInter150,Azathioprine,Prescription,L,Antineoplastic and immunomodulating agents,447,749
+DDInter151,Azelaic acid,Prescription,NA,NA,3,3
+DDInter152,Azelaic acid (topical),Prescription,D,Dermatologicals,1,2
+DDInter153,Azelastine,Prescription,NA,NA,86,86
+DDInter154,Azelastine (nasal),Prescription,R,Respiratory system,177,353
+DDInter155,Azelastine (ophthalmic),Prescription,NA,NA,1,1
+DDInter156,Azilsartan medoxomil,Prescription,C,Cardiovascular system,256,534
+DDInter157,Azithromycin,Prescription,J,Antiinfectives for systemic use,526,896
+DDInter158,Aztreonam,Prescription,J,Antiinfectives for systemic use,49,65
+DDInter159,Bacampicillin,Prescription,NA,NA,49,94
+DDInter160,Bacillus calmette-guerin substrain tice live antigen,Prescription,NA,NA,184,547
+DDInter161,Bacitracin,OTC,J,Antiinfectives for systemic use,84,184
+DDInter162,Baclofen,Prescription,M,Musculo-skeletal system,457,823
+DDInter163,Baloxavir marboxil,Prescription,J,Antiinfectives for systemic use,33,66
+DDInter164,Balsalazide,Prescription,NA,NA,196,370
+DDInter165,Baricitinib,Prescription,L,Antineoplastic and immunomodulating agents,314,853
+DDInter166,Basiliximab,Prescription,L,Antineoplastic and immunomodulating agents,68,155
+DDInter167,Bazedoxifene,Prescription,G,Genito-urinary system and sex hormones,11,22
+DDInter168,Beclomethasone dipropionate,Prescription,R,Respiratory system,48,87
+DDInter169,Beclomethasone dipropionate (nasal),Prescription,R,Respiratory system,1,2
+DDInter170,Bedaquiline,Prescription,NA,NA,500,1217
+DDInter171,Belantamab mafodotin,Prescription,L,Antineoplastic and immunomodulating agents,49,120
+DDInter172,Belatacept,Prescription,NA,NA,70,161
+DDInter173,Belimumab,Prescription,L,Antineoplastic and immunomodulating agents,69,158
+DDInter174,Belinostat,Prescription,NA,NA,124,279
+DDInter175,Belladonna,Prescription,NA,NA,189,363
+DDInter176,Bempedoic acid,Prescription,C,Cardiovascular system,51,130
+DDInter177,Benazepril,Prescription,C,Cardiovascular system,426,753
+DDInter178,Bendamustine,Prescription,L,Antineoplastic and immunomodulating agents,178,384
+DDInter179,Bendroflumethiazide,Prescription,NA,NA,375,733
+DDInter180,Benzalkonium (topical),Excluded (topical OTC),D,Dermatologicals,1,2
+DDInter181,Benzatropine,Prescription,NA,NA,325,636
+DDInter182,Benzhydrocodone,Prescription,NA,NA,461,1098
+DDInter183,Benznidazole,Prescription,NA,NA,94,193
+DDInter184,Benzocaine (topical),Prescription,D,Dermatologicals,40,82
+DDInter185,Benzonatate,Prescription,NA,NA,1,2
+DDInter186,Benzoyl peroxide (topical),Excluded (topical OTC),D,Dermatologicals,5,10
+DDInter187,Benzphetamine,Prescription,NA,NA,185,405
+DDInter188,Benzthiazide,Prescription,NA,NA,370,720
+DDInter189,Benzylpenicillin,Prescription,NA,NA,36,63
+DDInter190,Benzylpenicillin (potassium),Prescription,NA,NA,30,57
+DDInter191,Benzylpenicillin (sodium),Prescription,NA,NA,31,59
+DDInter192,Bepridil,Prescription,NA,NA,460,1103
+DDInter193,Berotralstat,Prescription,B,Blood and blood forming organs,293,662
+DDInter194,Beta carotene,Prescription,NA,NA,2,3
+DDInter195,Betamethasone,Prescription,H,Systemic hormonal preparations,450,918
+DDInter196,Betamethasone (topical),Prescription,D,Dermatologicals,44,44
+DDInter197,Betaxolol,Prescription,NA,NA,435,846
+DDInter198,Betaxolol (ophthalmic),Prescription,NA,NA,193,395
+DDInter199,Bethanechol,Prescription,NA,NA,62,124
+DDInter200,Betrixaban,Prescription,NA,NA,246,609
+DDInter201,Bevacizumab,Prescription,L,Antineoplastic and immunomodulating agents,22,49
+DDInter202,Bexarotene,Prescription,NA,NA,491,1006
+DDInter203,Bexarotene (topical),Prescription,NA,NA,10,21
+DDInter204,Bicalutamide,Prescription,L,Antineoplastic and immunomodulating agents,388,764
+DDInter205,Bictegravir,Prescription,J,Antiinfectives for systemic use,157,347
+DDInter206,Bifidobacterium longum infantis,Prescription,NA,NA,237,474
+DDInter207,Bimatoprost,Prescription,NA,NA,165,165
+DDInter208,Bimatoprost (ophthalmic),Prescription,S,Sensory organs,5,10
+DDInter209,Bimatoprost (topical ophthalmic),Prescription,NA,NA,4,8
+DDInter210,Binimetinib,Prescription,L,Antineoplastic and immunomodulating agents,169,362
+DDInter211,Biperiden,Prescription,NA,NA,309,604
+DDInter212,Bisacodyl,OTC,A,Alimentary tract and metabolism,208,415
+DDInter213,Bismuth subcitrate potassium,Prescription,NA,NA,6,12
+DDInter214,Bismuth subgallate,Prescription,NA,NA,21,42
+DDInter215,Bismuth subsalicylate,OTC,A,Alimentary tract and metabolism,116,231
+DDInter216,Bisoprolol,Prescription,C,Cardiovascular system,536,951
+DDInter217,Bivalirudin,Prescription,B,Blood and blood forming organs,140,328
+DDInter218,Black widow spider antivenin (equine),Prescription,NA,NA,21,42
+DDInter219,Bleomycin,Prescription,L,Antineoplastic and immunomodulating agents,205,382
+DDInter220,Blinatumomab,Prescription,L,Antineoplastic and immunomodulating agents,138,311
+DDInter221,Boceprevir,Prescription,NA,NA,380,918
+DDInter222,Bortezomib,Prescription,L,Antineoplastic and immunomodulating agents,520,838
+DDInter223,Bosentan,Prescription,C,Cardiovascular system,539,1005
+DDInter224,Bosutinib,Prescription,L,Antineoplastic and immunomodulating agents,413,967
+DDInter226,Botulinum Toxin Type B,Prescription,NA,NA,109,242
+DDInter225,Botulinum toxin type A,Prescription,NA,NA,109,242
+DDInter227,Bremelanotide,Prescription,NA,NA,1,3
+DDInter228,Brentuximab vedotin,Prescription,L,Antineoplastic and immunomodulating agents,463,958
+DDInter229,Bretylium,Prescription,NA,NA,21,49
+DDInter230,Brexanolone,Prescription,NA,NA,243,488
+DDInter231,Brexpiprazole,Prescription,N,Nervous system,509,1121
+DDInter232,Brexucabtagene autoleucel,Prescription,L,Antineoplastic and immunomodulating agents,64,164
+DDInter233,Brigatinib,Prescription,L,Antineoplastic and immunomodulating agents,507,1115
+DDInter234,Brimonidine,Prescription,NA,NA,141,141
+DDInter235,Brimonidine (ophthalmic),Excluded (topical OTC),S,Sensory organs,344,688
+DDInter236,Brimonidine (topical),Prescription,D,Dermatologicals,344,688
+DDInter237,Brinzolamide,Prescription,NA,NA,70,70
+DDInter238,Brinzolamide (ophthalmic),Prescription,S,Sensory organs,12,31
+DDInter239,Brivaracetam,Prescription,N,Nervous system,283,537
+DDInter240,Brodalumab,Prescription,L,Antineoplastic and immunomodulating agents,67,153
+DDInter241,Bromfenac,Prescription,NA,NA,267,582
+DDInter242,Bromfenac (ophthalmic),Prescription,S,Sensory organs,72,143
+DDInter243,Bromocriptine,Prescription,N,Nervous system,336,686
+DDInter244,Bromotheophylline,Prescription,NA,NA,17,34
+DDInter245,Brompheniramine,OTC,R,Respiratory system,290,584
+DDInter246,Budesonide,Prescription,R,Respiratory system,596,940
+DDInter247,Budesonide (nasal),Prescription,R,Respiratory system,74,148
+DDInter248,Bumetanide,Prescription,C,Cardiovascular system,585,1008
+DDInter249,Bupivacaine,Prescription,N,Nervous system,164,238
+DDInter250,Bupivacaine (liposome),Prescription,N,Nervous system,37,84
+DDInter251,Buprenorphine,Prescription,N,Nervous system,675,1483
+DDInter252,Bupropion,Prescription,N,Nervous system,663,1281
+DDInter253,Burosumab,Prescription,M,Musculo-skeletal system,12,34
+DDInter254,Buspirone,Prescription,N,Nervous system,589,1101
+DDInter255,Busulfan,Prescription,L,Antineoplastic and immunomodulating agents,228,431
+DDInter256,Butabarbital,Prescription,NA,NA,525,1062
+DDInter257,Butalbital,Prescription,N,Nervous system,472,959
+DDInter258,Butorphanol,Prescription,N,Nervous system,523,1196
+DDInter259,Cabazitaxel,Prescription,L,Antineoplastic and immunomodulating agents,275,576
+DDInter260,Cabergoline,Prescription,G,Genito-urinary system and sex hormones,228,380
+DDInter261,Cabotegravir,Prescription,J,Antiinfectives for systemic use,13,32
+DDInter262,Cabozantinib,Prescription,L,Antineoplastic and immunomodulating agents,458,1213
+DDInter263,Caffeine,OTC,N,Nervous system,67,110
+DDInter264,Calaspargase pegol,Prescription,L,Antineoplastic and immunomodulating agents,310,626
+DDInter265,Calcifediol,Prescription,NA,NA,57,121
+DDInter266,Calcipotriol,Prescription,NA,NA,83,83
+DDInter267,Calcipotriol (topical),Prescription,D,Dermatologicals,52,105
+DDInter268,Calcitriol,Prescription,A,Alimentary tract and metabolism,338,400
+DDInter269,Calcitriol (topical),Prescription,NA,NA,50,100
+DDInter279,Calcium Phosphate,Prescription,NA,NA,84,172
+DDInter270,Calcium acetate,Prescription,B,Blood and blood forming organs,83,169
+DDInter271,Calcium carbonate,OTC,A,Alimentary tract and metabolism,198,353
+DDInter272,Calcium chloride,Prescription,B,Blood and blood forming organs,216,253
+DDInter273,Calcium citrate,Prescription,NA,NA,84,172
+DDInter274,Calcium glubionate anhydrous,Prescription,NA,NA,82,166
+DDInter275,Calcium glucoheptonate,Prescription,NA,NA,33,69
+DDInter276,Calcium gluconate,Prescription,B,Blood and blood forming organs,83,171
+DDInter277,Calcium glycerophosphate,Prescription,NA,NA,40,83
+DDInter278,Calcium lactate,Prescription,NA,NA,82,166
+DDInter280,Canagliflozin,Prescription,A,Alimentary tract and metabolism,345,672
+DDInter281,Canakinumab,Prescription,L,Antineoplastic and immunomodulating agents,305,632
+DDInter282,Candida albicans,Prescription,NA,NA,199,398
+DDInter283,Cangrelor,Prescription,B,Blood and blood forming organs,131,314
+DDInter284,Cannabidiol,Prescription,N,Nervous system,528,1015
+DDInter285,Capecitabine,Prescription,L,Antineoplastic and immunomodulating agents,334,518
+DDInter286,Caplacizumab,Prescription,NA,NA,139,338
+DDInter287,Capmatinib,Prescription,L,Antineoplastic and immunomodulating agents,225,498
+DDInter288,Capreomycin,Prescription,NA,NA,113,266
+DDInter289,Capromab pendetide,Prescription,NA,NA,12,24
+DDInter290,Capsaicin (topical),Excluded (topical OTC),M,Musculo-skeletal system,10,10
+DDInter291,Capsicum,Prescription,NA,NA,48,48
+DDInter292,Captopril,Prescription,C,Cardiovascular system,557,912
+DDInter293,Carbamazepine,Prescription,N,Nervous system,882,1710
+DDInter294,Carbamoylcholine (ophthalmic),Prescription,NA,NA,106,212
+DDInter295,Carbenicillin,Prescription,NA,NA,30,58
+DDInter296,Carbidopa,Prescription,N,Nervous system,3,6
+DDInter297,Carbinoxamine,Prescription,NA,NA,294,592
+DDInter298,Carboplatin,Prescription,L,Antineoplastic and immunomodulating agents,488,753
+DDInter299,Carfilzomib,Prescription,L,Antineoplastic and immunomodulating agents,226,535
+DDInter300,Cariprazine,Prescription,N,Nervous system,512,1083
+DDInter301,Carisoprodol,Prescription,NA,NA,519,872
+DDInter302,Carmustine,Prescription,L,Antineoplastic and immunomodulating agents,237,421
+DDInter303,Carteolol,Prescription,NA,NA,330,669
+DDInter304,Carteolol (ophthalmic),Prescription,NA,NA,194,412
+DDInter305,Carvedilol,Prescription,C,Cardiovascular system,744,1249
+DDInter306,Caspofungin,Prescription,J,Antiinfectives for systemic use,172,251
+DDInter307,Castor oil,Prescription,NA,NA,201,401
+DDInter308,Cedazuridine,Prescription,L,Antineoplastic and immunomodulating agents,4,8
+DDInter309,Cefaclor,Prescription,NA,NA,156,185
+DDInter310,Cefadroxil,Prescription,J,Antiinfectives for systemic use,121,146
+DDInter311,Cefalotin,Prescription,NA,NA,26,54
+DDInter312,Cefamandole,Prescription,NA,NA,33,69
+DDInter313,Cefapirin,Prescription,NA,NA,26,54
+DDInter314,Cefazolin,Prescription,J,Antiinfectives for systemic use,283,318
+DDInter315,Cefdinir,Prescription,NA,NA,164,198
+DDInter316,Cefditoren,Prescription,NA,NA,44,86
+DDInter317,Cefepime,Prescription,J,Antiinfectives for systemic use,262,293
+DDInter318,Cefiderocol,Prescription,NA,NA,22,52
+DDInter319,Cefixime,Prescription,J,Antiinfectives for systemic use,38,73
+DDInter320,Cefmetazole,Prescription,NA,NA,31,65
+DDInter321,Cefonicid,Prescription,NA,NA,28,58
+DDInter322,Cefoperazone,Prescription,NA,NA,33,69
+DDInter323,Cefotaxime,Prescription,J,Antiinfectives for systemic use,145,179
+DDInter324,Cefotetan,Prescription,NA,NA,34,71
+DDInter325,Cefoxitin,Prescription,J,Antiinfectives for systemic use,71,104
+DDInter326,Cefpodoxime,Prescription,NA,NA,142,199
+DDInter327,Cefprozil,Prescription,J,Antiinfectives for systemic use,131,167
+DDInter328,Cefradine,Prescription,NA,NA,34,66
+DDInter329,Ceftaroline fosamil,Prescription,NA,NA,27,56
+DDInter330,Ceftazidime,Prescription,J,Antiinfectives for systemic use,219,270
+DDInter331,Ceftibuten,Prescription,NA,NA,21,44
+DDInter332,Ceftizoxime,Prescription,NA,NA,26,54
+DDInter333,Ceftolozane,Prescription,J,Antiinfectives for systemic use,19,38
+DDInter334,Ceftriaxone,Prescription,J,Antiinfectives for systemic use,376,420
+DDInter335,Cefuroxime,Prescription,J,Antiinfectives for systemic use,335,392
+DDInter336,Celecoxib,Prescription,M,Musculo-skeletal system,643,1022
+DDInter337,Cemiplimab,Prescription,L,Antineoplastic and immunomodulating agents,9,18
+DDInter338,Cenobamate,Prescription,N,Nervous system,457,940
+DDInter339,Cephalexin,Prescription,J,Antiinfectives for systemic use,376,402
+DDInter340,Ceritinib,Prescription,L,Antineoplastic and immunomodulating agents,624,1595
+DDInter341,Cerivastatin,Prescription,NA,NA,270,521
+DDInter342,Certolizumab pegol,Prescription,L,Antineoplastic and immunomodulating agents,354,923
+DDInter343,Cetirizine,OTC,R,Respiratory system,569,808
+DDInter344,Cetuximab,Prescription,L,Antineoplastic and immunomodulating agents,19,40
+DDInter345,Cetylpyridinium (topical),Excluded (topical OTC),R,Respiratory system,1,2
+DDInter346,Cevimeline,Prescription,NA,NA,230,414
+DDInter347,Chamomile,Prescription,NA,NA,49,50
+DDInter348,Chenodeoxycholic acid,Prescription,NA,NA,53,111
+DDInter349,Chloral hydrate,Prescription,N,Nervous system,285,592
+DDInter350,Chlorambucil,Prescription,L,Antineoplastic and immunomodulating agents,167,340
+DDInter351,Chloramphenicol,Prescription,J,Antiinfectives for systemic use,476,918
+DDInter352,Chloramphenicol (ophthalmic),Prescription,NA,NA,88,176
+DDInter353,Chloramphenicol (otic),Prescription,NA,NA,4,8
+DDInter354,Chlorcyclizine,Prescription,NA,NA,176,356
+DDInter355,Chlordiazepoxide,Prescription,N,Nervous system,432,834
+DDInter356,Chlorhexidine,OTC,A,Alimentary tract and metabolism,143,143
+DDInter357,Chlormezanone,Prescription,NA,NA,222,468
+DDInter358,Chloroprocaine,Prescription,N,Nervous system,34,69
+DDInter359,Chloroquine,Prescription,NA,NA,465,1090
+DDInter360,Chlorothiazide,Prescription,NA,NA,432,813
+DDInter361,Chlorphenesin,Prescription,NA,NA,230,484
+DDInter362,Chlorpheniramine,OTC,R,Respiratory system,347,662
+DDInter363,Chlorpromazine,Prescription,N,Nervous system,704,1448
+DDInter364,Chlorpropamide,Prescription,NA,NA,449,869
+DDInter365,Chlorthalidone,Prescription,C,Cardiovascular system,465,855
+DDInter366,Chlorzoxazone,Prescription,NA,NA,317,635
+DDInter367,Cholecalciferol,Prescription,NA,NA,55,115
+DDInter368,Cholestyramine,Prescription,NA,NA,117,215
+DDInter369,Cholic Acid,Prescription,NA,NA,10,20
+DDInter370,Choline salicylate,Prescription,NA,NA,218,413
+DDInter371,Chondroitin sulfate,Prescription,NA,NA,3,6
+DDInter372,Chorionic Gonadotropin (Human),Prescription,G,Genito-urinary system and sex hormones,1,2
+DDInter373,Chromic chloride,Prescription,NA,NA,44,88
+DDInter374,Chromium picolinate,Prescription,NA,NA,57,114
+DDInter375,Ciclesonide,Prescription,R,Respiratory system,62,104
+DDInter376,Ciclesonide (nasal),Prescription,R,Respiratory system,28,56
+DDInter377,Ciclopirox,Prescription,D,Dermatologicals,93,93
+DDInter378,Cidofovir,Prescription,J,Antiinfectives for systemic use,112,320
+DDInter379,Cilostazol,Prescription,NA,NA,417,951
+DDInter380,Cimetidine,Prescription,A,Alimentary tract and metabolism,547,868
+DDInter381,Cinacalcet,Prescription,H,Systemic hormonal preparations,240,377
+DDInter382,Cinchocaine (topical),Prescription,NA,NA,40,82
+DDInter383,Cinoxacin,Prescription,NA,NA,186,355
+DDInter384,Ciprofloxacin,Prescription,S,Sensory organs,848,1486
+DDInter385,Cisapride,Prescription,NA,NA,299,819
+DDInter386,Cisatracurium,Prescription,M,Musculo-skeletal system,184,337
+DDInter387,Cisplatin,Prescription,L,Antineoplastic and immunomodulating agents,520,881
+DDInter388,Citalopram,Prescription,N,Nervous system,919,1795
+DDInter389,Citicoline,Prescription,NA,NA,1,1
+DDInter390,Citric acid,Prescription,B,Blood and blood forming organs,15,31
+DDInter391,Citrus bioflavonoids,Prescription,NA,NA,1,2
+DDInter392,Cladribine,Prescription,L,Antineoplastic and immunomodulating agents,344,949
+DDInter393,Clarithromycin,Prescription,J,Antiinfectives for systemic use,822,1593
+DDInter394,Clavulanic acid,Prescription,J,Antiinfectives for systemic use,21,46
+DDInter395,Clemastine,Prescription,NA,NA,295,593
+DDInter396,Clevidipine,Prescription,C,Cardiovascular system,224,449
+DDInter397,Clidinium,Prescription,A,Alimentary tract and metabolism,191,370
+DDInter398,Clindamycin,Prescription,J,Antiinfectives for systemic use,320,392
+DDInter399,Clindamycin (topical),Prescription,D,Dermatologicals,12,24
+DDInter400,Clioquinol (topical),Excluded (topical OTC),D,Dermatologicals,1,3
+DDInter401,Clobazam,Prescription,N,Nervous system,472,945
+DDInter402,Clobetasol,Prescription,NA,NA,175,175
+DDInter403,Clobetasol (topical),Prescription,D,Dermatologicals,44,44
+DDInter404,Clocortolone (topical),Prescription,NA,NA,44,44
+DDInter405,Clofarabine,Prescription,L,Antineoplastic and immunomodulating agents,464,935
+DDInter406,Clofazimine,Prescription,NA,NA,231,519
+DDInter407,Clofedanol,OTC,R,Respiratory system,212,424
+DDInter408,Clofibrate,Prescription,NA,NA,47,94
+DDInter409,Clomifene,Prescription,NA,NA,2,5
+DDInter410,Clomipramine,Prescription,N,Nervous system,753,1554
+DDInter411,Clonazepam,Prescription,N,Nervous system,735,1182
+DDInter412,Clonidine,Prescription,C,Cardiovascular system,602,976
+DDInter413,Clopidogrel,Prescription,B,Blood and blood forming organs,614,880
+DDInter414,Clorazepic acid,Prescription,NA,NA,447,892
+DDInter415,Clostridium tetani toxoid antigen (formaldehyde inactivated),Prescription,NA,NA,210,418
+DDInter416,Clotrimazole,OTC,G,Genito-urinary system and sex hormones,473,711
+DDInter417,Clove,Prescription,NA,NA,64,64
+DDInter418,Cloxacillin,Prescription,J,Antiinfectives for systemic use,28,55
+DDInter419,Clozapine,Prescription,N,Nervous system,889,2115
+DDInter420,Coagulation Factor IX Human,Prescription,NA,NA,2,5
+DDInter421,Coagulation factor VIIa Recombinant Human,Prescription,NA,NA,5,10
+DDInter422,Coagulation factor X human,Prescription,NA,NA,6,13
+DDInter423,Coal tar (topical),Excluded (topical OTC),D,Dermatologicals,5,10
+DDInter424,Cobicistat,Prescription,J,Antiinfectives for systemic use,420,1000
+DDInter425,Cobimetinib,Prescription,L,Antineoplastic and immunomodulating agents,263,628
+DDInter426,Cocaine (nasal),Prescription,NA,NA,135,338
+DDInter427,Cocaine (topical),Prescription,NA,NA,131,327
+DDInter428,Coccidioides immitis spherule,Prescription,NA,NA,198,396
+DDInter429,Codeine,Prescription,R,Respiratory system,448,1011
+DDInter430,Coenzyme M,Prescription,NA,NA,3,6
+DDInter431,Colchicine,Prescription,M,Musculo-skeletal system,223,536
+DDInter432,Colesevelam,Prescription,C,Cardiovascular system,80,164
+DDInter433,Colestipol,Prescription,C,Cardiovascular system,87,167
+DDInter434,Colistimethate,Prescription,J,Antiinfectives for systemic use,60,158
+DDInter435,Collagenase clostridium histolyticum,Prescription,NA,NA,49,98
+DDInter436,Collagenase clostridium histolyticum (topical),Prescription,NA,NA,4,8
+DDInter437,Conestat alfa,Prescription,NA,NA,41,86
+DDInter438,Conivaptan,Prescription,NA,NA,385,928
+DDInter439,Conjugated estrogens,Prescription,G,Genito-urinary system and sex hormones,200,389
+DDInter440,Conjugated estrogens (topical),Prescription,G,Genito-urinary system and sex hormones,131,256
+DDInter441,Copanlisib,Prescription,NA,NA,229,520
+DDInter442,Copper gluconate,Prescription,A,Alimentary tract and metabolism,19,38
+DDInter443,Copper oxodotreotide Cu-64,Prescription,NA,NA,3,9
+DDInter444,Coral snake (micrurus fulvius) immune globulin antivenin (equine),Prescription,NA,NA,21,42
+DDInter445,Corticotropin,Prescription,NA,NA,271,556
+DDInter446,Cranberry,Prescription,NA,NA,2,4
+DDInter447,Creatine,Prescription,NA,NA,5,7
+DDInter448,Crizotinib,Prescription,L,Antineoplastic and immunomodulating agents,564,1376
+DDInter449,Cromoglicic acid,OTC,S,Sensory organs,98,99
+DDInter450,Crotalus scutulatus antivenin,Prescription,NA,NA,21,42
+DDInter451,Cyanocobalamin,Prescription,NA,NA,313,315
+DDInter452,Cyclandelate,Prescription,NA,NA,62,123
+DDInter453,Cyclizine,Prescription,NA,NA,238,479
+DDInter454,Cyclobenzaprine,Prescription,M,Musculo-skeletal system,624,1064
+DDInter455,Cyclopentolate (ophthalmic),Prescription,S,Sensory organs,16,32
+DDInter456,Cyclophosphamide,Prescription,L,Antineoplastic and immunomodulating agents,481,726
+DDInter457,Cycloserine,Prescription,NA,NA,23,53
+DDInter458,Cyclosporine,Prescription,S,Sensory organs,816,1524
+DDInter459,Cyproheptadine,OTC,R,Respiratory system,302,608
+DDInter460,Cytarabine,Prescription,L,Antineoplastic and immunomodulating agents,365,552
+DDInter461,Cytarabine (liposomal),Prescription,L,Antineoplastic and immunomodulating agents,56,112
+DDInter462,Dabrafenib,Prescription,L,Antineoplastic and immunomodulating agents,418,881
+DDInter463,Dacarbazine,Prescription,L,Antineoplastic and immunomodulating agents,233,423
+DDInter464,Daclatasvir,Prescription,NA,NA,178,405
+DDInter465,Dacomitinib,Prescription,NA,NA,91,200
+DDInter466,Dactinomycin,Prescription,L,Antineoplastic and immunomodulating agents,164,314
+DDInter467,Dalbavancin,Prescription,J,Antiinfectives for systemic use,8,18
+DDInter468,Dalfampridine,Prescription,NA,NA,34,72
+DDInter469,Dalfopristin,Prescription,NA,NA,256,542
+DDInter470,Dalteparin,Prescription,B,Blood and blood forming organs,173,434
+DDInter471,Danaparoid,Prescription,B,Blood and blood forming organs,138,351
+DDInter472,Danazol,Prescription,G,Genito-urinary system and sex hormones,246,466
+DDInter473,Dantrolene,Prescription,M,Musculo-skeletal system,297,603
+DDInter474,Dapagliflozin,Prescription,A,Alimentary tract and metabolism,337,651
+DDInter475,Dapsone,Prescription,J,Antiinfectives for systemic use,348,541
+DDInter476,Dapsone (topical),Prescription,D,Dermatologicals,83,112
+DDInter477,Daptomycin,Prescription,J,Antiinfectives for systemic use,51,100
+DDInter478,Daratumumab,Prescription,L,Antineoplastic and immunomodulating agents,80,188
+DDInter479,Darbepoetin alfa,Prescription,B,Blood and blood forming organs,17,28
+DDInter480,Darifenacin,Prescription,G,Genito-urinary system and sex hormones,432,796
+DDInter481,Darolutamide,Prescription,L,Antineoplastic and immunomodulating agents,181,330
+DDInter482,Darunavir,Prescription,J,Antiinfectives for systemic use,430,932
+DDInter483,Dasabuvir,Prescription,NA,NA,5,12
+DDInter484,Dasatinib,Prescription,L,Antineoplastic and immunomodulating agents,686,1525
+DDInter485,Daunorubicin,Prescription,L,Antineoplastic and immunomodulating agents,387,850
+DDInter486,Daunorubicin (liposomal),Prescription,L,Antineoplastic and immunomodulating agents,388,851
+DDInter487,Decitabine,Prescription,L,Antineoplastic and immunomodulating agents,120,269
+DDInter488,Deferasirox,Prescription,V,Various,518,1204
+DDInter489,Deferiprone,Prescription,V,Various,246,699
+DDInter490,Deferoxamine,Prescription,V,Various,47,77
+DDInter491,Defibrotide,Prescription,B,Blood and blood forming organs,130,317
+DDInter492,Deflazacort,Prescription,NA,NA,402,915
+DDInter493,Degarelix,Prescription,L,Antineoplastic and immunomodulating agents,216,486
+DDInter494,Dehydrocholic acid,Prescription,NA,NA,1,1
+DDInter495,Delafloxacin,Prescription,J,Antiinfectives for systemic use,223,429
+DDInter496,Delavirdine,Prescription,NA,NA,432,987
+DDInter497,Demecarium (ophthalmic),Prescription,NA,NA,91,183
+DDInter498,Demeclocycline,Prescription,NA,NA,154,293
+DDInter499,Denileukin diftitox,Prescription,NA,NA,88,188
+DDInter500,Denosumab,Prescription,M,Musculo-skeletal system,226,454
+DDInter501,Deoxycholic acid,Prescription,D,Dermatologicals,64,128
+DDInter502,Deserpidine,Prescription,NA,NA,201,401
+DDInter503,Desflurane,Prescription,N,Nervous system,89,161
+DDInter504,Desipramine,Prescription,N,Nervous system,598,1291
+DDInter505,Desirudin,Prescription,NA,NA,139,368
+DDInter506,Desloratadine,OTC,R,Respiratory system,265,273
+DDInter507,Desmopressin,Prescription,H,Systemic hormonal preparations,168,305
+DDInter508,Desogestrel,Prescription,G,Genito-urinary system and sex hormones,77,158
+DDInter509,Desonide (topical),Prescription,D,Dermatologicals,44,44
+DDInter510,Desoximetasone (topical),Prescription,D,Dermatologicals,44,44
+DDInter511,Desvenlafaxine,Prescription,N,Nervous system,495,1029
+DDInter512,Deutetrabenazine,Prescription,NA,NA,390,878
+DDInter513,Dexamethasone,Prescription,H,Systemic hormonal preparations,910,1592
+DDInter514,Dexamethasone (nasal),Prescription,NA,NA,27,54
+DDInter515,Dexamethasone (ophthalmic),Prescription,S,Sensory organs,80,117
+DDInter516,Dexamethasone (topical),Prescription,NA,NA,39,39
+DDInter517,Dexbrompheniramine,Prescription,NA,NA,293,590
+DDInter518,Dexfenfluramine,Prescription,NA,NA,251,582
+DDInter519,Dexlansoprazole,Prescription,A,Alimentary tract and metabolism,118,231
+DDInter520,Dexmedetomidine,Prescription,N,Nervous system,335,654
+DDInter521,Dexmethylphenidate,Prescription,NA,NA,111,231
+DDInter522,Dexrazoxane,Prescription,V,Various,19,48
+DDInter523,Dextran (-1),Prescription,B,Blood and blood forming organs,21,59
+DDInter524,Dextran (high molecular weight),Prescription,B,Blood and blood forming organs,24,68
+DDInter525,Dextran (low molecular weight),Prescription,B,Blood and blood forming organs,25,71
+DDInter526,Dextroamphetamine,Prescription,N,Nervous system,145,319
+DDInter527,Dextromethorphan,OTC,R,Respiratory system,303,620
+DDInter528,Dextropropoxyphene,Prescription,NA,NA,569,1407
+DDInter529,"Dextrose, unspecified form",Prescription,NA,NA,1,2
+DDInter530,Dextrothyroxine,Prescription,NA,NA,12,24
+DDInter531,Dezocine,Prescription,NA,NA,294,691
+DDInter532,Diamorphine,Prescription,N,Nervous system,315,659
+DDInter533,Diatrizoate,Prescription,V,Various,156,392
+DDInter534,Diazepam,Prescription,N,Nervous system,749,1188
+DDInter535,Diazoxide,Prescription,V,Various,207,411
+DDInter536,Dichloralphenazone,Prescription,NA,NA,192,409
+DDInter537,Diclofenac,Prescription,M,Musculo-skeletal system,635,1042
+DDInter538,Diclofenac (ophthalmic),Prescription,S,Sensory organs,72,143
+DDInter539,Diclofenac (topical),Excluded (topical OTC),M,Musculo-skeletal system,111,229
+DDInter540,Diclofenamide,Prescription,NA,NA,203,415
+DDInter541,Dicloxacillin,Prescription,NA,NA,77,109
+DDInter542,Dicoumarol,Prescription,NA,NA,433,933
+DDInter543,Dicyclomine,Prescription,A,Alimentary tract and metabolism,340,525
+DDInter544,Didanosine,Prescription,NA,NA,350,536
+DDInter545,Dienestrol (topical),Prescription,NA,NA,123,240
+DDInter546,Dienogest,Prescription,G,Genito-urinary system and sex hormones,75,172
+DDInter547,Diethylpropion,Prescription,NA,NA,157,354
+DDInter548,Diethylstilbestrol,Prescription,NA,NA,118,228
+DDInter549,Difenoxin,Prescription,NA,NA,58,116
+DDInter550,Diflorasone (topical),Prescription,NA,NA,44,44
+DDInter551,Diflunisal,Prescription,NA,NA,353,708
+DDInter552,Difluprednate (ophthalmic),Prescription,S,Sensory organs,1,3
+DDInter553,Digitoxin,Prescription,NA,NA,183,364
+DDInter554,Digoxin,Prescription,C,Cardiovascular system,685,1031
+DDInter555,Digoxin Immune Fab (Ovine),Prescription,V,Various,16,38
+DDInter556,Dihydrocodeine,Prescription,NA,NA,449,1008
+DDInter557,Dihydroergotamine,Prescription,N,Nervous system,309,715
+DDInter558,Dihydrotachysterol,Prescription,NA,NA,50,107
+DDInter559,Diiodohydroxyquinoline,Prescription,NA,NA,85,171
+DDInter560,Diiodohydroxyquinoline (topical),Prescription,NA,NA,1,3
+DDInter561,Diltiazem,Prescription,C,Cardiovascular system,843,1506
+DDInter562,Dimenhydrinate,OTC,R,Respiratory system,275,551
+DDInter563,Dimercaprol,Prescription,NA,NA,15,45
+DDInter564,Dimethyl fumarate,Prescription,L,Antineoplastic and immunomodulating agents,265,560
+DDInter565,Dimethyl sulfoxide,Prescription,G,Genito-urinary system and sex hormones,2,4
+DDInter566,Dinoprostone,Prescription,NA,NA,2,2
+DDInter567,Dinoprostone (topical),Prescription,G,Genito-urinary system and sex hormones,6,18
+DDInter568,Dinutuximab,Prescription,L,Antineoplastic and immunomodulating agents,169,382
+DDInter569,Diphenhydramine,OTC,R,Respiratory system,393,795
+DDInter570,Diphenhydramine (topical),Excluded (topical OTC),D,Dermatologicals,3,7
+DDInter571,Diphenoxylate,Prescription,A,Alimentary tract and metabolism,61,122
+DDInter572,Dipivefrin (ophthalmic),Prescription,NA,NA,39,83
+DDInter573,Dipyridamole,Prescription,B,Blood and blood forming organs,316,491
+DDInter574,Diroximel fumarate,Prescription,NA,NA,215,452
+DDInter575,Disopyramide,Prescription,NA,NA,544,1282
+DDInter576,Disulfiram,Prescription,NA,NA,183,351
+DDInter577,Dobutamine,Prescription,C,Cardiovascular system,193,353
+DDInter578,Docetaxel,Prescription,L,Antineoplastic and immunomodulating agents,568,963
+DDInter579,Docusate,OTC,A,Alimentary tract and metabolism,4,7
+DDInter580,Dofetilide,Prescription,NA,NA,461,1053
+DDInter581,Dolasetron,Prescription,NA,NA,454,1066
+DDInter582,Dolutegravir,Prescription,J,Antiinfectives for systemic use,138,238
+DDInter583,Donepezil,Prescription,N,Nervous system,628,952
+DDInter584,Dopamine,Prescription,C,Cardiovascular system,193,408
+DDInter585,Doravirine,Prescription,J,Antiinfectives for systemic use,163,271
+DDInter586,Doripenem,Prescription,NA,NA,13,29
+DDInter587,Dornase alfa,Prescription,R,Respiratory system,1,2
+DDInter588,Dorzolamide (ophthalmic),Prescription,S,Sensory organs,12,31
+DDInter589,Dotatate,Prescription,NA,NA,3,6
+DDInter590,Doxacurium,Prescription,NA,NA,136,278
+DDInter591,Doxapram,Prescription,NA,NA,55,126
+DDInter592,Doxazosin,Prescription,C,Cardiovascular system,519,777
+DDInter593,Doxepin,Prescription,N,Nervous system,734,1445
+DDInter594,Doxepin (topical),Prescription,NA,NA,516,1127
+DDInter595,Doxercalciferol,Prescription,NA,NA,69,147
+DDInter596,Doxorubicin,Prescription,L,Antineoplastic and immunomodulating agents,664,1170
+DDInter597,Doxorubicin (liposomal),Prescription,L,Antineoplastic and immunomodulating agents,406,867
+DDInter598,Doxycycline,Prescription,J,Antiinfectives for systemic use,469,623
+DDInter599,Doxycycline (topical),Prescription,NA,NA,4,8
+DDInter600,Doxylamine,OTC,N,Nervous system,289,592
+DDInter601,Dronabinol,Prescription,NA,NA,357,718
+DDInter602,Dronedarone,Prescription,C,Cardiovascular system,592,1461
+DDInter603,Droperidol,Prescription,NA,NA,518,1270
+DDInter604,Drospirenone,Prescription,G,Genito-urinary system and sex hormones,259,565
+DDInter605,Drotrecogin alfa,Prescription,NA,NA,133,356
+DDInter606,Droxidopa,Prescription,NA,NA,64,130
+DDInter607,Dulaglutide,Prescription,A,Alimentary tract and metabolism,233,448
+DDInter608,Duloxetine,Prescription,N,Nervous system,752,1383
+DDInter609,Dupilumab,Prescription,D,Dermatologicals,52,123
+DDInter610,Durvalumab,Prescription,L,Antineoplastic and immunomodulating agents,81,184
+DDInter611,Dutasteride,Prescription,G,Genito-urinary system and sex hormones,304,403
+DDInter612,Duvelisib,Prescription,NA,NA,402,881
+DDInter613,Dyphylline,Prescription,NA,NA,81,166
+DDInter614,Echinacea,Prescription,NA,NA,372,692
+DDInter615,Echothiophate (ophthalmic),Prescription,NA,NA,108,217
+DDInter616,Econazole,Prescription,NA,NA,38,38
+DDInter617,Econazole (topical),Prescription,NA,NA,2,4
+DDInter618,Eculizumab,Prescription,L,Antineoplastic and immunomodulating agents,4,4
+DDInter619,Edetate calcium disodium anhydrous,Prescription,NA,NA,23,58
+DDInter620,Edetate disodium anhydrous,Prescription,NA,NA,14,41
+DDInter621,Edoxaban,Prescription,B,Blood and blood forming organs,233,614
+DDInter622,Edrophonium,Prescription,NA,NA,57,115
+DDInter623,Efalizumab,Prescription,NA,NA,233,479
+DDInter624,Efavirenz,Prescription,J,Antiinfectives for systemic use,750,1641
+DDInter625,Elagolix,Prescription,H,Systemic hormonal preparations,313,656
+DDInter626,Elbasvir,Prescription,NA,NA,31,64
+DDInter627,Eletriptan,Prescription,N,Nervous system,257,495
+DDInter628,Elexacaftor,Prescription,R,Respiratory system,22,44
+DDInter629,Eliglustat,Prescription,A,Alimentary tract and metabolism,285,666
+DDInter630,Elotuzumab,Prescription,NA,NA,163,355
+DDInter631,Eltrombopag,Prescription,B,Blood and blood forming organs,134,283
+DDInter632,Eluxadoline,Prescription,A,Alimentary tract and metabolism,206,428
+DDInter633,Elvitegravir,Prescription,J,Antiinfectives for systemic use,60,138
+DDInter634,Emapalumab,Prescription,NA,NA,76,164
+DDInter635,Emicizumab,Prescription,B,Blood and blood forming organs,3,7
+DDInter636,Empagliflozin,Prescription,A,Alimentary tract and metabolism,367,716
+DDInter637,Emtricitabine,Prescription,J,Antiinfectives for systemic use,32,70
+DDInter638,Enalapril,Prescription,C,Cardiovascular system,634,988
+DDInter639,Enasidenib,Prescription,NA,NA,72,146
+DDInter640,Encorafenib,Prescription,L,Antineoplastic and immunomodulating agents,447,1036
+DDInter641,Enflurane,Prescription,NA,NA,94,179
+DDInter642,Enfortumab vedotin,Prescription,L,Antineoplastic and immunomodulating agents,210,452
+DDInter643,Enfuvirtide,Prescription,NA,NA,4,5
+DDInter644,Enoxacin,Prescription,NA,NA,218,416
+DDInter645,Enoxaparin,Prescription,B,Blood and blood forming organs,173,434
+DDInter646,Entacapone,Prescription,N,Nervous system,324,562
+DDInter647,Entecavir,Prescription,J,Antiinfectives for systemic use,151,302
+DDInter648,Entrectinib,Prescription,L,Antineoplastic and immunomodulating agents,466,1049
+DDInter649,Enzalutamide,Prescription,L,Antineoplastic and immunomodulating agents,570,1307
+DDInter650,Ephedrine,Prescription,C,Cardiovascular system,196,408
+DDInter651,Ephedrine (nasal),Prescription,NA,NA,59,115
+DDInter652,Epinephrine,Prescription,C,Cardiovascular system,385,613
+DDInter653,Epinephrine (ophthalmic),Prescription,C,Cardiovascular system,40,84
+DDInter654,Epinephrine (topical),Excluded (topical OTC),B,Blood and blood forming organs,59,125
+DDInter655,Epirubicin,Prescription,L,Antineoplastic and immunomodulating agents,487,1051
+DDInter656,Eplerenone,Prescription,C,Cardiovascular system,345,681
+DDInter657,Epoprostenol,Prescription,B,Blood and blood forming organs,347,642
+DDInter658,Eprosartan,Prescription,NA,NA,235,492
+DDInter659,Eptifibatide,Prescription,B,Blood and blood forming organs,183,363
+DDInter660,Eravacycline,Prescription,NA,NA,63,120
+DDInter661,Erdafitinib,Prescription,L,Antineoplastic and immunomodulating agents,187,446
+DDInter662,Ergocalciferol,Prescription,NA,NA,55,115
+DDInter663,Ergoloid mesylate,Prescription,NA,NA,1,2
+DDInter664,Ergometrine,Prescription,NA,NA,205,469
+DDInter665,Ergotamine,Prescription,NA,NA,261,623
+DDInter666,Eribulin,Prescription,L,Antineoplastic and immunomodulating agents,374,825
+DDInter667,Erlotinib,Prescription,L,Antineoplastic and immunomodulating agents,294,478
+DDInter668,Ertapenem,Prescription,J,Antiinfectives for systemic use,83,112
+DDInter669,Ertugliflozin,Prescription,NA,NA,332,646
+DDInter670,Erythromycin,Prescription,S,Sensory organs,754,1448
+DDInter671,Erythropoietin,Prescription,NA,NA,17,28
+DDInter672,Escitalopram,Prescription,N,Nervous system,638,1477
+DDInter673,Esketamine,Prescription,N,Nervous system,261,551
+DDInter674,Eslicarbazepine,Prescription,N,Nervous system,428,885
+DDInter675,Esmolol,Prescription,C,Cardiovascular system,364,731
+DDInter676,Esomeprazole,OTC,A,Alimentary tract and metabolism,167,318
+DDInter677,Estazolam,Prescription,NA,NA,428,774
+DDInter678,Esterified estrogens,Prescription,NA,NA,169,328
+DDInter679,Estradiol,Prescription,G,Genito-urinary system and sex hormones,559,845
+DDInter680,Estradiol (topical),Prescription,G,Genito-urinary system and sex hormones,188,370
+DDInter681,Estramustine,Prescription,NA,NA,111,214
+DDInter682,Estrone,Prescription,G,Genito-urinary system and sex hormones,184,356
+DDInter683,Estrone sulfate,Prescription,NA,NA,178,346
+DDInter684,Estrone sulfate (topical),Prescription,NA,NA,128,251
+DDInter685,Eszopiclone,Prescription,N,Nervous system,333,715
+DDInter686,Etacrynic acid,Prescription,NA,NA,422,843
+DDInter687,Etanercept,Prescription,L,Antineoplastic and immunomodulating agents,352,920
+DDInter688,Etelcalcetide,Prescription,NA,NA,20,59
+DDInter689,Ethambutol,Prescription,J,Antiinfectives for systemic use,209,325
+DDInter690,Ethanol,Prescription,NA,NA,471,962
+DDInter691,Ethchlorvynol,Prescription,NA,NA,159,341
+DDInter692,Ethinylestradiol,Prescription,NA,NA,409,809
+DDInter693,Ethiodized oil,Prescription,NA,NA,24,48
+DDInter694,Ethionamide,Prescription,NA,NA,132,273
+DDInter695,Ethosuximide,Prescription,N,Nervous system,322,635
+DDInter696,Ethotoin,Prescription,NA,NA,361,720
+DDInter697,Etidocaine,Prescription,NA,NA,33,66
+DDInter698,Etidronic acid,Prescription,NA,NA,221,382
+DDInter699,Etodolac,Prescription,NA,NA,476,842
+DDInter700,Etomidate,Prescription,N,Nervous system,92,114
+DDInter701,Etonogestrel,Prescription,G,Genito-urinary system and sex hormones,205,433
+DDInter702,Etoposide,Prescription,L,Antineoplastic and immunomodulating agents,494,814
+DDInter703,Etravirine,Prescription,J,Antiinfectives for systemic use,480,995
+DDInter704,Everolimus,Prescription,L,Antineoplastic and immunomodulating agents,382,909
+DDInter705,Exemestane,Prescription,L,Antineoplastic and immunomodulating agents,202,277
+DDInter706,Exenatide,Prescription,NA,NA,324,629
+DDInter707,Ezetimibe,Prescription,C,Cardiovascular system,397,428
+DDInter708,Ezogabine,Prescription,NA,NA,423,905
+DDInter709,Factor IX Complex (Human),Prescription,NA,NA,5,14
+DDInter710,Factor XIII (human),Prescription,B,Blood and blood forming organs,1,3
+DDInter711,Famciclovir,Prescription,J,Antiinfectives for systemic use,188,194
+DDInter712,Famotidine,OTC,A,Alimentary tract and metabolism,637,887
+DDInter713,Febuxostat,Prescription,M,Musculo-skeletal system,35,72
+DDInter714,Fedratinib,Prescription,L,Antineoplastic and immunomodulating agents,454,1017
+DDInter715,Felbamate,Prescription,NA,NA,444,901
+DDInter716,Felodipine,Prescription,C,Cardiovascular system,595,983
+DDInter717,Fenfluramine,Prescription,NA,NA,301,678
+DDInter718,Fenofibrate,Prescription,C,Cardiovascular system,452,598
+DDInter719,Fenofibric acid,Prescription,NA,NA,66,148
+DDInter720,Fenoldopam,Prescription,NA,NA,246,497
+DDInter721,Fenoprofen,Prescription,NA,NA,329,699
+DDInter722,Fentanyl,Prescription,N,Nervous system,814,1594
+DDInter723,Ferric carboxymaltose,Prescription,NA,NA,15,31
+DDInter724,Ferric derisomaltose,Prescription,NA,NA,15,31
+DDInter725,Ferrous fumarate,Prescription,NA,NA,80,155
+DDInter726,Ferrous gluconate,Prescription,NA,NA,80,155
+DDInter727,Ferrous sulfate anhydrous,Prescription,NA,NA,67,131
+DDInter728,Ferumoxides,Prescription,NA,NA,4,9
+DDInter729,Ferumoxsil,Prescription,NA,NA,2,5
+DDInter730,Ferumoxytol,Prescription,NA,NA,15,31
+DDInter731,Fesoterodine,Prescription,G,Genito-urinary system and sex hormones,275,572
+DDInter732,Fexofenadine,OTC,R,Respiratory system,472,532
+DDInter733,Fibrinogen human,Prescription,NA,NA,1,3
+DDInter734,Fidaxomicin,Prescription,A,Alimentary tract and metabolism,79,106
+DDInter735,Filgrastim,Prescription,L,Antineoplastic and immunomodulating agents,145,291
+DDInter736,Finasteride,Prescription,G,Genito-urinary system and sex hormones,320,341
+DDInter737,Fingolimod,Prescription,L,Antineoplastic and immunomodulating agents,501,1407
+DDInter738,Flavoxate,Prescription,NA,NA,309,609
+DDInter739,Flax seed,Prescription,NA,NA,2,5
+DDInter740,Flecainide,Prescription,C,Cardiovascular system,439,807
+DDInter741,Flibanserin,Prescription,G,Genito-urinary system and sex hormones,448,963
+DDInter742,Floxuridine,Prescription,NA,NA,151,316
+DDInter743,Fluconazole,OTC,J,Antiinfectives for systemic use,783,1401
+DDInter744,Flucytosine,Prescription,NA,NA,85,172
+DDInter745,Fludarabine,Prescription,L,Antineoplastic and immunomodulating agents,367,582
+DDInter746,Fludeoxyglucose (18F),Prescription,NA,NA,36,72
+DDInter747,Fludrocortisone,Prescription,NA,NA,445,922
+DDInter748,Flumazenil,Prescription,V,Various,52,89
+DDInter749,Flunisolide,Prescription,NA,NA,129,170
+DDInter750,Flunisolide (nasal),Prescription,NA,NA,30,60
+DDInter751,Fluocinolone acetonide,Prescription,S,Sensory organs,9,9
+DDInter752,Fluocinonide,Prescription,NA,NA,63,63
+DDInter753,Fluocinonide (topical),Prescription,D,Dermatologicals,44,44
+DDInter754,Fluorescein,Prescription,V,Various,29,58
+DDInter755,Fluorometholone,Prescription,NA,NA,11,11
+DDInter756,Fluorometholone (ophthalmic),Prescription,S,Sensory organs,36,73
+DDInter757,Fluorouracil,Prescription,L,Antineoplastic and immunomodulating agents,361,562
+DDInter758,Fluoxetine,Prescription,N,Nervous system,798,1545
+DDInter759,Fluoxymesterone,Prescription,NA,NA,73,155
+DDInter760,Fluphenazine,Prescription,N,Nervous system,710,1496
+DDInter761,Flurandrenolide (topical),Prescription,NA,NA,44,44
+DDInter762,Flurazepam,Prescription,N,Nervous system,462,880
+DDInter763,Flurbiprofen,Prescription,M,Musculo-skeletal system,348,732
+DDInter764,Flurbiprofen (ophthalmic),Prescription,NA,NA,72,143
+DDInter765,Flutamide,Prescription,L,Antineoplastic and immunomodulating agents,284,604
+DDInter766,Fluticasone,Prescription,R,Respiratory system,473,570
+DDInter767,Fluticasone (nasal),Excluded (topical OTC),R,Respiratory system,49,121
+DDInter768,Fluticasone (topical),Prescription,NA,NA,45,46
+DDInter769,Fluvastatin,Prescription,C,Cardiovascular system,311,497
+DDInter770,Fluvoxamine,Prescription,N,Nervous system,677,1407
+DDInter771,Folic acid,Prescription,B,Blood and blood forming organs,430,463
+DDInter772,Follitropin,Prescription,NA,NA,1,2
+DDInter773,Fomepizole,Prescription,V,Various,1,3
+DDInter774,Fomivirsen (ophthalmic),Prescription,NA,NA,1,2
+DDInter775,Fondaparinux,Prescription,B,Blood and blood forming organs,153,394
+DDInter776,Formoterol,Prescription,R,Respiratory system,460,832
+DDInter777,Fosamprenavir,Prescription,NA,NA,472,1044
+DDInter778,Fosaprepitant,Prescription,A,Alimentary tract and metabolism,342,705
+DDInter779,Foscarnet,Prescription,J,Antiinfectives for systemic use,354,769
+DDInter780,Fosfomycin,Prescription,J,Antiinfectives for systemic use,7,15
+DDInter781,Fosinopril,Prescription,C,Cardiovascular system,443,791
+DDInter782,Fosnetupitant,Prescription,NA,NA,207,428
+DDInter783,Fosphenytoin,Prescription,N,Nervous system,686,1486
+DDInter784,Fospropofol,Prescription,NA,NA,80,166
+DDInter785,Fostamatinib,Prescription,B,Blood and blood forming organs,442,926
+DDInter786,Fostemsavir,Prescription,J,Antiinfectives for systemic use,325,683
+DDInter787,Frangula purshiana bark,Prescription,NA,NA,195,389
+DDInter788,Frovatriptan,Prescription,N,Nervous system,102,228
+DDInter789,Fulvestrant,Prescription,L,Antineoplastic and immunomodulating agents,89,90
+DDInter790,Furosemide,Prescription,C,Cardiovascular system,746,1188
+DDInter791,Gabapentin,Prescription,N,Nervous system,573,813
+DDInter792,Gadobenic acid,Prescription,NA,NA,50,100
+DDInter793,Gadobutrol,Prescription,V,Various,25,50
+DDInter794,Gadodiamide,Prescription,V,Various,109,128
+DDInter795,Gadofosveset trisodium,Prescription,NA,NA,25,50
+DDInter796,Gadopentetic acid,Prescription,NA,NA,37,74
+DDInter797,Gadoteric acid,Prescription,NA,NA,30,60
+DDInter798,Gadoteridol,Prescription,V,Various,19,38
+DDInter799,Gadoversetamide,Prescription,NA,NA,77,96
+DDInter800,Gadoxetic acid,Prescription,NA,NA,33,66
+DDInter801,Galactose,Prescription,NA,NA,131,131
+DDInter802,Galantamine,Prescription,N,Nervous system,398,751
+DDInter803,Gallium chloride Ga-67,Prescription,NA,NA,23,46
+DDInter804,Gallium nitrate,Prescription,NA,NA,45,119
+DDInter806,Ganciclovir,Prescription,S,Sensory organs,311,528
+DDInter807,Ganirelix,Prescription,H,Systemic hormonal preparations,6,12
+DDInter808,Garlic,Prescription,NA,NA,172,225
+DDInter809,Gatifloxacin,Prescription,S,Sensory organs,586,1194
+DDInter810,Gefitinib,Prescription,L,Antineoplastic and immunomodulating agents,348,534
+DDInter811,Gemcitabine,Prescription,L,Antineoplastic and immunomodulating agents,337,526
+DDInter812,Gemfibrozil,Prescription,C,Cardiovascular system,292,420
+DDInter813,Gemifloxacin,Prescription,NA,NA,448,903
+DDInter814,Gemtuzumab ozogamicin,Prescription,L,Antineoplastic and immunomodulating agents,118,253
+DDInter815,Gentamicin,Prescription,J,Antiinfectives for systemic use,286,496
+DDInter816,Gentamicin (topical),Prescription,NA,NA,20,40
+DDInter817,Gilteritinib,Prescription,L,Antineoplastic and immunomodulating agents,433,957
+DDInter818,Ginger,Prescription,NA,NA,46,91
+DDInter819,Ginkgo biloba,Prescription,NA,NA,267,534
+DDInter820,Ginseng,Prescription,NA,NA,97,195
+DDInter821,Givosiran,Prescription,A,Alimentary tract and metabolism,199,423
+DDInter822,Glasdegib,Prescription,L,Antineoplastic and immunomodulating agents,389,876
+DDInter823,Glatiramer,Prescription,L,Antineoplastic and immunomodulating agents,1,3
+DDInter824,Glecaprevir,Prescription,J,Antiinfectives for systemic use,110,238
+DDInter825,Glimepiride,Prescription,A,Alimentary tract and metabolism,599,1016
+DDInter826,Glipizide,Prescription,NA,NA,615,1030
+DDInter827,Glucagon,Prescription,H,Systemic hormonal preparations,23,24
+DDInter828,Glucarpidase,Prescription,NA,NA,8,16
+DDInter829,Glucosamine,Prescription,NA,NA,3,6
+DDInter830,Glutamic acid,Prescription,B,Blood and blood forming organs,5,10
+DDInter831,Glyburide,Prescription,A,Alimentary tract and metabolism,632,1068
+DDInter832,Glycerin,OTC,V,Various,220,434
+DDInter833,Glycerol phenylbutyrate,Prescription,A,Alimentary tract and metabolism,191,383
+DDInter834,Glycopyrronium,Prescription,R,Respiratory system,196,377
+DDInter835,Glycopyrronium (topical),Prescription,NA,NA,99,197
+DDInter836,Goldenseal,Prescription,NA,NA,82,156
+DDInter837,Golimumab,Prescription,L,Antineoplastic and immunomodulating agents,352,920
+DDInter838,Gonadorelin,Prescription,NA,NA,1,2
+DDInter839,Goserelin,Prescription,L,Antineoplastic and immunomodulating agents,370,686
+DDInter840,Granisetron,Prescription,A,Alimentary tract and metabolism,460,898
+DDInter841,Grazoprevir,Prescription,NA,NA,123,317
+DDInter842,Grepafloxacin,Prescription,NA,NA,517,1189
+DDInter843,Griseofulvin,Prescription,NA,NA,234,468
+DDInter844,Guanabenz,Prescription,NA,NA,152,303
+DDInter845,Guanadrel,Prescription,NA,NA,201,404
+DDInter846,Guanethidine,Prescription,NA,NA,229,460
+DDInter847,Guanfacine,Prescription,C,Cardiovascular system,386,842
+DDInter848,Guanidine,Prescription,NA,NA,38,79
+DDInter849,Guselkumab,Prescription,L,Antineoplastic and immunomodulating agents,136,291
+DDInter850,Halazepam,Prescription,NA,NA,302,602
+DDInter851,Halcinonide (topical),Prescription,NA,NA,44,44
+DDInter852,Halofantrine,Prescription,NA,NA,271,747
+DDInter853,Haloperidol,Prescription,N,Nervous system,724,1572
+DDInter854,Halothane,Prescription,NA,NA,335,721
+DDInter855,Hemin,Prescription,B,Blood and blood forming organs,74,167
+DDInter856,Heparin,Prescription,B,Blood and blood forming organs,612,848
+DDInter857,Heparin (flush),Prescription,B,Blood and blood forming organs,7,17
+DDInter858,Hepatitis A Vaccine,Prescription,NA,NA,186,372
+DDInter859,Hepatitis B Immune Globulin,Prescription,NA,NA,7,14
+DDInter860,Hepatitis B Vaccine (Recombinant),Prescription,NA,NA,186,372
+DDInter861,Hexachlorophene (topical),Prescription,NA,NA,1,2
+DDInter862,Hexaminolevulinate,Prescription,V,Various,1,3
+DDInter863,Histamine,Prescription,V,Various,38,76
+DDInter864,Histrelin,Prescription,NA,NA,260,573
+DDInter865,Homatropine,Prescription,NA,NA,33,70
+DDInter866,Homatropine (ophthalmic),Prescription,NA,NA,15,30
+DDInter869,Human C1-esterase inhibitor,Prescription,NA,NA,41,86
+DDInter877,Human Rho(D) immune globulin,Prescription,NA,NA,70,203
+DDInter879,Human Varicella-Zoster Immune Globulin,Prescription,NA,NA,7,14
+DDInter867,Human adenovirus e serotype 4 strain cl-68578 antigen,Prescription,NA,NA,189,381
+DDInter868,Human botulinum neurotoxin A/B immune globulin,Prescription,NA,NA,71,205
+DDInter870,Human cytomegalovirus immune globulin,Prescription,NA,NA,82,233
+DDInter871,Human immunoglobulin G (intramuscular),Prescription,NA,NA,8,14
+DDInter872,Human immunoglobulin G (intravenous and subcutaneous),Prescription,NA,NA,73,208
+DDInter873,Human immunoglobulin G (intravenous),Prescription,NA,NA,73,208
+DDInter874,Human immunoglobulin G (subcutaneous),Prescription,NA,NA,9,16
+DDInter875,Human papillomavirus type 11 L1 capsid protein antigen,Prescription,NA,NA,186,372
+DDInter876,Human rabies virus immune globulin,Prescription,NA,NA,7,14
+DDInter878,Human vaccinia virus immune globulin,Prescription,NA,NA,7,14
+DDInter880,Hyaluronic acid,Prescription,NA,NA,2,4
+DDInter881,Hyaluronidase,Prescription,J,Antiinfectives for systemic use,63,63
+DDInter882,Hydralazine,Prescription,C,Cardiovascular system,298,557
+DDInter883,Hydrochlorothiazide,Prescription,C,Cardiovascular system,689,1080
+DDInter884,Hydrocodone,Prescription,R,Respiratory system,523,1244
+DDInter885,Hydrocortisone,Prescription,H,Systemic hormonal preparations,722,1218
+DDInter886,Hydrocortisone (ophthalmic),Prescription,NA,NA,36,73
+DDInter887,Hydrocortisone (topical),Excluded (topical OTC),D,Dermatologicals,44,44
+DDInter888,Hydrocortisone butyrate,Prescription,NA,NA,25,25
+DDInter889,Hydroflumethiazide,Prescription,NA,NA,410,799
+DDInter890,Hydromorphone,Prescription,N,Nervous system,577,1082
+DDInter891,Hydroxocobalamin,Prescription,V,Various,32,36
+DDInter892,Hydroxyamphetamine (ophthalmic),Prescription,NA,NA,24,48
+DDInter893,Hydroxychloroquine,Prescription,P,Antiparasitic products,621,1224
+DDInter894,Hydroxyurea,Prescription,L,Antineoplastic and immunomodulating agents,307,476
+DDInter895,Hydroxyzine,Prescription,N,Nervous system,727,1323
+DDInter896,Hyoscyamine,Prescription,NA,NA,200,385
+DDInter897,Ibandronate,Prescription,NA,NA,326,485
+DDInter898,Ibritumomab tiuxetan,Prescription,NA,NA,194,498
+DDInter899,Ibrutinib,Prescription,L,Antineoplastic and immunomodulating agents,336,837
+DDInter900,Ibuprofen,OTC,M,Musculo-skeletal system,681,1073
+DDInter901,Ibutilide,Prescription,C,Cardiovascular system,252,698
+DDInter902,Icatibant,Prescription,B,Blood and blood forming organs,10,20
+DDInter903,Icosapent,Prescription,NA,NA,68,136
+DDInter904,Idarubicin,Prescription,L,Antineoplastic and immunomodulating agents,385,846
+DDInter905,Idelalisib,Prescription,L,Antineoplastic and immunomodulating agents,693,1551
+DDInter906,Ifosfamide,Prescription,L,Antineoplastic and immunomodulating agents,471,918
+DDInter907,Iloperidone,Prescription,NA,NA,614,1463
+DDInter908,Iloprost,Prescription,NA,NA,345,641
+DDInter909,Imatinib,Prescription,L,Antineoplastic and immunomodulating agents,672,1330
+DDInter910,Imiglucerase,Prescription,A,Alimentary tract and metabolism,1,2
+DDInter911,Imipenem,Prescription,J,Antiinfectives for systemic use,30,66
+DDInter912,Imipramine,Prescription,N,Nervous system,734,1477
+DDInter913,Imiquimod,Prescription,NA,NA,58,58
+DDInter914,Imiquimod (topical),Prescription,D,Dermatologicals,6,13
+DDInter915,Indacaterol,Prescription,R,Respiratory system,438,818
+DDInter916,Indapamide,Prescription,C,Cardiovascular system,531,925
+DDInter917,Indinavir,Prescription,NA,NA,474,1039
+DDInter918,Indium In-111 oxyquinoline,Prescription,NA,NA,139,278
+DDInter919,Indium In-111 pentetate,Prescription,NA,NA,3,6
+DDInter920,Indium In-111 pentetreotide,Prescription,NA,NA,3,6
+DDInter921,Indomethacin,Prescription,M,Musculo-skeletal system,528,916
+DDInter922,Inebilizumab,Prescription,L,Antineoplastic and immunomodulating agents,38,91
+DDInter923,Infliximab,Prescription,L,Antineoplastic and immunomodulating agents,366,951
+DDInter924,Influenza A virus A/California/7/2009 (H1N1)-like antigen (propiolactone inactivated),Prescription,NA,NA,186,372
+DDInter925,Influenza A virus A/Vietnam/1194/2004 (H5N1) antigen (formaldehyde inactivated),Prescription,NA,NA,186,372
+DDInter926,Inotersen,Prescription,NA,NA,216,602
+DDInter927,Inotuzumab ozogamicin,Prescription,L,Antineoplastic and immunomodulating agents,317,716
+DDInter928,Insulin aspart (aspart protamine),Prescription,A,Alimentary tract and metabolism,303,586
+DDInter929,Insulin aspart (aspart),Prescription,A,Alimentary tract and metabolism,354,691
+DDInter930,Insulin degludec,Prescription,A,Alimentary tract and metabolism,351,685
+DDInter931,Insulin detemir,Prescription,NA,NA,353,689
+DDInter932,Insulin glargine,Prescription,A,Alimentary tract and metabolism,352,687
+DDInter933,Insulin glulisine,Prescription,A,Alimentary tract and metabolism,353,689
+DDInter934,Insulin human,Prescription,NA,NA,297,574
+DDInter935,"Insulin human (inhalation, rapid acting)",Prescription,NA,NA,375,733
+DDInter936,Insulin human (isophane),Prescription,NA,NA,353,689
+DDInter937,Insulin human (regular),Prescription,NA,NA,352,687
+DDInter938,Insulin human (zinc extended),Prescription,NA,NA,352,687
+DDInter939,Insulin human (zinc),Prescription,NA,NA,353,689
+DDInter940,Insulin lispro,Prescription,A,Alimentary tract and metabolism,352,687
+DDInter941,Insulin lispro (protamine),Prescription,A,Alimentary tract and metabolism,303,586
+DDInter942,"Interferon alfa-2a, Recombinant",Prescription,NA,NA,198,419
+DDInter943,Interferon alfa-2b,Prescription,NA,NA,198,419
+DDInter944,Interferon alfa-n1,Prescription,NA,NA,152,327
+DDInter945,Interferon alfa-n3,Prescription,NA,NA,29,62
+DDInter946,Interferon alfacon-1,Prescription,NA,NA,162,346
+DDInter947,Interferon beta-1a,Prescription,L,Antineoplastic and immunomodulating agents,284,579
+DDInter948,Interferon beta-1b,Prescription,L,Antineoplastic and immunomodulating agents,284,579
+DDInter949,Interferon gamma-1b,Prescription,NA,NA,77,171
+DDInter950,Inulin,Prescription,NA,NA,2,3
+DDInter951,Iobenguane (I-123),Prescription,NA,NA,77,154
+DDInter952,Iobenguane (I-131),Prescription,NA,NA,202,535
+DDInter953,Iodide I-123,Prescription,NA,NA,150,300
+DDInter954,Iodide I-131,Prescription,NA,NA,154,309
+DDInter955,Iodine,Prescription,V,Various,3,6
+DDInter956,Iodine (topical),Prescription,NA,NA,2,4
+DDInter957,Iodipamide,Prescription,NA,NA,133,340
+DDInter958,Iodixanol,Prescription,V,Various,148,344
+DDInter959,Ioflupane I-123,Prescription,NA,NA,88,176
+DDInter960,Iohexol,Prescription,V,Various,325,897
+DDInter961,Iopamidol,Prescription,V,Various,337,909
+DDInter962,Iopanoic acid,Prescription,NA,NA,45,89
+DDInter963,Iopodic acid,Prescription,NA,NA,48,95
+DDInter964,Iopromide,Prescription,V,Various,202,419
+DDInter965,Iothalamic acid,Prescription,NA,NA,149,378
+DDInter966,Ioversol,Prescription,NA,NA,167,384
+DDInter967,Ioxilan,Prescription,NA,NA,137,354
+DDInter968,Ipecac,Prescription,NA,NA,1,2
+DDInter969,Ipilimumab,Prescription,L,Antineoplastic and immunomodulating agents,131,285
+DDInter970,Ipratropium,Prescription,R,Respiratory system,101,202
+DDInter971,Ipratropium (nasal),Prescription,R,Respiratory system,83,83
+DDInter972,Irbesartan,Prescription,C,Cardiovascular system,507,784
+DDInter973,Irinotecan,Prescription,L,Antineoplastic and immunomodulating agents,434,780
+DDInter974,Irinotecan (liposomal),Prescription,L,Antineoplastic and immunomodulating agents,279,614
+DDInter975,Iron,Prescription,B,Blood and blood forming organs,79,153
+DDInter976,Iron Dextran,Prescription,NA,NA,15,41
+DDInter977,Iron protein succinylate,Prescription,NA,NA,58,113
+DDInter978,Iron sucrose,Prescription,NA,NA,42,86
+DDInter979,Isatuximab,Prescription,L,Antineoplastic and immunomodulating agents,102,226
+DDInter980,Isavuconazonium,Prescription,NA,NA,355,766
+DDInter981,Isocarboxazid,Prescription,NA,NA,498,1126
+DDInter982,Isoetharine,Prescription,NA,NA,280,561
+DDInter983,Isoflurane,Prescription,N,Nervous system,144,227
+DDInter984,Isoflurophate (ophthalmic),Prescription,NA,NA,87,175
+DDInter985,Isometheptene,Prescription,NA,NA,62,138
+DDInter986,Isoniazid,Prescription,J,Antiinfectives for systemic use,480,808
+DDInter987,Isoprenaline,Prescription,NA,NA,364,766
+DDInter988,Isosorbide,Prescription,NA,NA,78,162
+DDInter989,Isosorbide dinitrate,Prescription,C,Cardiovascular system,396,576
+DDInter990,Isosorbide mononitrate,Prescription,NA,NA,483,663
+DDInter991,Isotretinoin,Prescription,D,Dermatologicals,98,214
+DDInter992,Isoxsuprine,Prescription,NA,NA,70,139
+DDInter993,Isradipine,Prescription,NA,NA,457,822
+DDInter994,Istradefylline,Prescription,NA,NA,127,285
+DDInter995,Itraconazole,Prescription,J,Antiinfectives for systemic use,616,1232
+DDInter996,Ivabradine,Prescription,C,Cardiovascular system,352,930
+DDInter997,Ivacaftor,Prescription,R,Respiratory system,377,811
+DDInter998,Ivermectin,Prescription,P,Antiparasitic products,97,171
+DDInter999,Ivermectin (topical),Prescription,D,Dermatologicals,1,2
+DDInter1000,Ivosidenib,Prescription,NA,NA,412,1045
+DDInter1001,Ixabepilone,Prescription,NA,NA,275,576
+DDInter1002,Ixazomib,Prescription,L,Antineoplastic and immunomodulating agents,219,482
+DDInter1003,Ixekizumab,Prescription,L,Antineoplastic and immunomodulating agents,136,291
+DDInter1004,Kanamycin,Prescription,NA,NA,174,382
+DDInter1005,Kaolin,Prescription,NA,NA,84,153
+DDInter1006,Kava,Prescription,NA,NA,234,473
+DDInter1007,Ketamine,Prescription,N,Nervous system,361,707
+DDInter1008,Ketoconazole,OTC,J,Antiinfectives for systemic use,656,1400
+DDInter1009,Ketoprofen,Prescription,M,Musculo-skeletal system,469,843
+DDInter1010,Ketorolac,Prescription,M,Musculo-skeletal system,482,882
+DDInter1011,Ketorolac (ophthalmic),Prescription,S,Sensory organs,72,143
+DDInter1012,Ketotifen,Prescription,S,Sensory organs,85,85
+DDInter1013,Labetalol,Prescription,C,Cardiovascular system,570,1053
+DDInter1014,Lacosamide,Prescription,N,Nervous system,105,212
+DDInter1015,Lactic acid,Prescription,B,Blood and blood forming organs,30,51
+DDInter1016,Lactitol,Prescription,NA,NA,197,394
+DDInter1017,Lactobacillus acidophilus,Prescription,NA,NA,259,518
+DDInter1018,Lactulose,OTC,A,Alimentary tract and metabolism,533,746
+DDInter1019,Lamivudine,Prescription,J,Antiinfectives for systemic use,309,353
+DDInter1020,Lamotrigine,Prescription,N,Nervous system,491,743
+DDInter1021,Lanreotide,Prescription,H,Systemic hormonal preparations,133,266
+DDInter1022,Lansoprazole,Prescription,A,Alimentary tract and metabolism,618,768
+DDInter1023,Lanthanum carbonate,Prescription,NA,NA,76,153
+DDInter1024,Lapatinib,Prescription,L,Antineoplastic and immunomodulating agents,547,1183
+DDInter1025,Laronidase,Prescription,A,Alimentary tract and metabolism,2,2
+DDInter1026,Larotrectinib,Prescription,L,Antineoplastic and immunomodulating agents,426,885
+DDInter1027,Lasmiditan,Prescription,NA,NA,405,879
+DDInter1028,Latanoprost,Prescription,NA,NA,292,292
+DDInter1029,Latanoprost (ophthalmic),Prescription,S,Sensory organs,6,12
+DDInter1030,Latanoprostene bunod (ophthalmic),Prescription,S,Sensory organs,6,12
+DDInter1031,Ledipasvir,Prescription,J,Antiinfectives for systemic use,87,175
+DDInter1032,Lefamulin,Prescription,NA,NA,543,1311
+DDInter1033,Leflunomide,Prescription,L,Antineoplastic and immunomodulating agents,676,1602
+DDInter1034,Lemborexant,Prescription,N,Nervous system,441,964
+DDInter1035,Lenalidomide,Prescription,L,Antineoplastic and immunomodulating agents,346,578
+DDInter1036,Lenvatinib,Prescription,L,Antineoplastic and immunomodulating agents,258,577
+DDInter1037,Lepirudin,Prescription,NA,NA,143,342
+DDInter1038,Lesinurad,Prescription,NA,NA,162,323
+DDInter1039,Letermovir,Prescription,J,Antiinfectives for systemic use,354,753
+DDInter1040,Letrozole,Prescription,L,Antineoplastic and immunomodulating agents,258,341
+DDInter1041,Leucovorin,Prescription,V,Various,291,319
+DDInter1042,Leuprolide,Prescription,L,Antineoplastic and immunomodulating agents,260,573
+DDInter1043,Levacetylmethadol,Prescription,NA,NA,518,1394
+DDInter1044,Levamisole,Prescription,NA,NA,73,171
+DDInter1045,Levamlodipine,Prescription,NA,NA,412,815
+DDInter1046,Levetiracetam,Prescription,N,Nervous system,452,663
+DDInter1047,Levmetamfetamine (nasal),Prescription,NA,NA,34,72
+DDInter1048,Levobetaxolol (ophthalmic),Prescription,NA,NA,131,268
+DDInter1049,Levobunolol,Prescription,NA,NA,42,42
+DDInter1050,Levobunolol (ophthalmic),Prescription,NA,NA,196,414
+DDInter1051,Levobupivacaine,Prescription,NA,NA,164,280
+DDInter1052,Levocarnitine,Prescription,A,Alimentary tract and metabolism,68,70
+DDInter1053,Levocetirizine,Prescription,NA,NA,241,480
+DDInter1054,Levodopa,Prescription,N,Nervous system,302,594
+DDInter1055,Levofloxacin,Prescription,J,Antiinfectives for systemic use,434,920
+DDInter1056,Levoleucovorin,Prescription,NA,NA,23,50
+DDInter1057,Levomefolic acid,Prescription,NA,NA,22,45
+DDInter1058,Levomefolic acid (calcium),Prescription,NA,NA,22,45
+DDInter1059,Levomilnacipran,Prescription,N,Nervous system,325,750
+DDInter1060,Levonordefrin,Prescription,NA,NA,95,207
+DDInter1061,Levonorgestrel,OTC,G,Genito-urinary system and sex hormones,312,549
+DDInter1062,Levorphanol,Prescription,NA,NA,304,716
+DDInter1063,Levosalbutamol,Prescription,NA,NA,312,627
+DDInter1064,Levothyroxine,Prescription,H,Systemic hormonal preparations,664,833
+DDInter1065,Licorice,Prescription,NA,NA,129,254
+DDInter1066,Lidocaine,OTC,N,Nervous system,529,706
+DDInter1067,Lidocaine (ophthalmic),Prescription,NA,NA,37,74
+DDInter1068,Lidocaine (topical),Excluded (topical OTC),D,Dermatologicals,40,83
+DDInter1069,Linaclotide,Prescription,A,Alimentary tract and metabolism,55,66
+DDInter1070,Linagliptin,Prescription,A,Alimentary tract and metabolism,299,581
+DDInter1071,Lincomycin,Prescription,NA,NA,64,93
+DDInter1072,Lindane,Prescription,NA,NA,179,362
+DDInter1073,Linezolid,Prescription,J,Antiinfectives for systemic use,630,1257
+DDInter1074,Liothyronine,Prescription,H,Systemic hormonal preparations,311,473
+DDInter1075,Liotrix,Prescription,NA,NA,150,279
+DDInter1076,Lipoic acid,Prescription,NA,NA,29,29
+DDInter1077,Liraglutide,Prescription,A,Alimentary tract and metabolism,239,456
+DDInter1078,Lisdexamfetamine,Prescription,NA,NA,323,725
+DDInter1079,Lisinopril,Prescription,C,Cardiovascular system,696,1044
+DDInter1080,Lisocabtagene maraleucel,Prescription,L,Antineoplastic and immunomodulating agents,32,79
+DDInter1081,Lithium carbonate,Prescription,N,Nervous system,609,1321
+DDInter1082,Lixisenatide,Prescription,A,Alimentary tract and metabolism,237,454
+DDInter1083,Lofexidine,Prescription,NA,NA,514,1085
+DDInter1084,Lomefloxacin,Prescription,NA,NA,375,776
+DDInter1085,Lomitapide,Prescription,C,Cardiovascular system,436,1156
+DDInter1086,Lomustine,Prescription,L,Antineoplastic and immunomodulating agents,172,362
+DDInter1087,Lonafarnib,Prescription,NA,NA,404,991
+DDInter1088,Loperamide,OTC,A,Alimentary tract and metabolism,590,950
+DDInter1089,Lopinavir,Prescription,J,Antiinfectives for systemic use,150,334
+DDInter1090,Loracarbef,Prescription,NA,NA,19,40
+DDInter1091,Loratadine,OTC,R,Respiratory system,452,520
+DDInter1092,Lorazepam,Prescription,N,Nervous system,712,1063
+DDInter1093,Lorcaserin,Prescription,NA,NA,187,450
+DDInter1094,Lorlatinib,Prescription,L,Antineoplastic and immunomodulating agents,458,1001
+DDInter1095,Losartan,Prescription,C,Cardiovascular system,593,885
+DDInter1096,Loteprednol (ophthalmic),Prescription,NA,NA,36,73
+DDInter1097,Loteprednol etabonate,Prescription,S,Sensory organs,66,66
+DDInter1098,Lovastatin,Prescription,C,Cardiovascular system,522,838
+DDInter1099,Loxapine,Prescription,N,Nervous system,405,817
+DDInter1100,Lubiprostone,Prescription,NA,NA,1,2
+DDInter1101,Lumacaftor,Prescription,R,Respiratory system,225,574
+DDInter1102,Lumateperone,Prescription,NA,NA,500,1120
+DDInter1103,Lumefantrine,Prescription,NA,NA,234,643
+DDInter1104,Lurasidone,Prescription,N,Nervous system,536,1167
+DDInter1105,Lurbinectedin,Prescription,NA,NA,251,574
+DDInter1106,Lusutrombopag,Prescription,NA,NA,124,249
+DDInter1107,Lutein,Prescription,NA,NA,1,1
+DDInter1108,Lutetium Lu 177 dotatate,Prescription,NA,NA,98,237
+DDInter1109,Lyme disease vaccine (recombinant OspA),Prescription,NA,NA,179,358
+DDInter1110,Macimorelin,Prescription,NA,NA,325,843
+DDInter1111,Macitentan,Prescription,C,Cardiovascular system,147,334
+DDInter1112,Magaldrate,Prescription,NA,NA,176,282
+DDInter1113,Magnesium carbonate,Prescription,NA,NA,197,322
+DDInter1114,Magnesium chloride,Prescription,B,Blood and blood forming organs,58,119
+DDInter1115,Magnesium citrate,Prescription,B,Blood and blood forming organs,235,472
+DDInter1116,Magnesium gluconate,Prescription,NA,NA,47,97
+DDInter1117,Magnesium glycinate,Prescription,NA,NA,35,72
+DDInter1118,Magnesium hydroxide,OTC,A,Alimentary tract and metabolism,366,668
+DDInter1119,Magnesium oxide,Prescription,A,Alimentary tract and metabolism,199,316
+DDInter1120,Magnesium sulfate,OTC,B,Blood and blood forming organs,92,195
+DDInter1121,Manganese (chloride),Prescription,A,Alimentary tract and metabolism,1,2
+DDInter1122,Manganese (sulfate),Prescription,A,Alimentary tract and metabolism,1,2
+DDInter1123,Mannitol,Prescription,B,Blood and blood forming organs,249,361
+DDInter1124,Maprotiline,Prescription,NA,NA,552,1198
+DDInter1125,Maraviroc,Prescription,J,Antiinfectives for systemic use,304,647
+DDInter1126,Mazindol,Prescription,NA,NA,146,330
+DDInter1127,Measles virus vaccine live attenuated,Prescription,NA,NA,191,568
+DDInter1128,Mebendazole,Prescription,P,Antiparasitic products,10,19
+DDInter1129,Mebrofenin,Prescription,NA,NA,22,44
+DDInter1130,Mecamylamine,Prescription,NA,NA,101,201
+DDInter1131,Mecasermin,Prescription,H,Systemic hormonal preparations,24,48
+DDInter1132,Mecasermin rinfabate,Prescription,NA,NA,20,40
+DDInter1133,Mechlorethamine,Prescription,NA,NA,137,288
+DDInter1134,Meclizine,Prescription,NA,NA,251,503
+DDInter1135,Meclofenamic acid,Prescription,NA,NA,314,679
+DDInter1136,Mecobalamin,Prescription,NA,NA,13,15
+DDInter1137,Medroxyprogesterone acetate,Prescription,G,Genito-urinary system and sex hormones,205,420
+DDInter1138,Medrysone (ophthalmic),Prescription,NA,NA,7,15
+DDInter1139,Mefenamic acid,Prescription,M,Musculo-skeletal system,383,768
+DDInter1140,Mefloquine,Prescription,P,Antiparasitic products,371,790
+DDInter1141,Megestrol acetate,Prescription,L,Antineoplastic and immunomodulating agents,134,267
+DDInter1142,Melatonin,Prescription,N,Nervous system,62,79
+DDInter1143,Meloxicam,Prescription,M,Musculo-skeletal system,584,977
+DDInter1144,Melphalan,Prescription,L,Antineoplastic and immunomodulating agents,234,406
+DDInter1145,Melphalan flufenamide,Prescription,NA,NA,12,18
+DDInter1146,Memantine,Prescription,N,Nervous system,292,381
+DDInter1147,Meningococcal polysaccharide vaccine group C,Prescription,NA,NA,186,372
+DDInter1148,Menotropins,Prescription,G,Genito-urinary system and sex hormones,1,2
+DDInter1149,Mepenzolate,Prescription,NA,NA,192,372
+DDInter1150,Meperidine,Prescription,N,Nervous system,530,1085
+DDInter1151,Mephentermine,Prescription,NA,NA,119,251
+DDInter1152,Mephenytoin,Prescription,NA,NA,394,784
+DDInter1153,Mepivacaine,Prescription,N,Nervous system,38,76
+DDInter1154,Meprobamate,Prescription,NA,NA,338,664
+DDInter1155,Mepyramine,OTC,N,Nervous system,381,767
+DDInter1156,Mercaptopurine,Prescription,L,Antineoplastic and immunomodulating agents,296,495
+DDInter1157,Meropenem,Prescription,J,Antiinfectives for systemic use,28,63
+DDInter1158,Mesalazine,Prescription,A,Alimentary tract and metabolism,290,414
+DDInter1159,Mesoridazine,Prescription,NA,NA,636,1485
+DDInter1160,Mestranol,Prescription,NA,NA,209,395
+DDInter1161,Metamfetamine,Prescription,NA,NA,224,463
+DDInter1162,Metaraminol,Prescription,NA,NA,129,280
+DDInter1163,Metaxalone,Prescription,NA,NA,258,543
+DDInter1164,Metformin,Prescription,A,Alimentary tract and metabolism,642,964
+DDInter1165,Methacholine,Prescription,NA,NA,20,58
+DDInter1166,Methadone,Prescription,N,Nervous system,688,1639
+DDInter1167,Methazolamide,Prescription,S,Sensory organs,203,415
+DDInter1168,Methdilazine,Prescription,NA,NA,401,810
+DDInter1169,Methenamine,Prescription,NA,NA,41,88
+DDInter1170,Methimazole,Prescription,H,Systemic hormonal preparations,143,201
+DDInter1171,Methionine,Prescription,B,Blood and blood forming organs,5,6
+DDInter1172,Methocarbamol,OTC,M,Musculo-skeletal system,463,793
+DDInter1173,Methohexital,Prescription,NA,NA,94,177
+DDInter1174,Methotrexate,Prescription,L,Antineoplastic and immunomodulating agents,781,1402
+DDInter1175,Methotrimeprazine,Prescription,N,Nervous system,529,1121
+DDInter1176,Methoxamine,Prescription,NA,NA,103,221
+DDInter1177,Methoxsalen,Prescription,D,Dermatologicals,125,253
+DDInter1178,Methoxsalen (topical),Prescription,NA,NA,5,11
+DDInter1179,Methoxyflurane,Prescription,N,Nervous system,178,371
+DDInter1180,Methscopolamine,Prescription,NA,NA,192,372
+DDInter1181,Methsuximide,Prescription,NA,NA,226,454
+DDInter1182,Methyl aminolevulinate (topical),Prescription,L,Antineoplastic and immunomodulating agents,118,237
+DDInter1183,Methyl salicylate (topical),Prescription,NA,NA,2,4
+DDInter1184,Methylcellulose,Prescription,NA,NA,25,27
+DDInter1185,Methyldopa,Prescription,C,Cardiovascular system,300,471
+DDInter1186,Methylene blue,OTC,V,Various,186,498
+DDInter1187,Methylergometrine,Prescription,NA,NA,234,534
+DDInter1188,Methylnaltrexone,Prescription,A,Alimentary tract and metabolism,10,20
+DDInter1189,Methylphenidate,Prescription,N,Nervous system,358,486
+DDInter1190,Methylphenobarbital,Prescription,NA,NA,494,1003
+DDInter1191,Methylprednisolone,Prescription,H,Systemic hormonal preparations,686,1181
+DDInter1192,Methylprednisolone (topical),Prescription,NA,NA,44,44
+DDInter1193,Methyltestosterone,Prescription,NA,NA,73,155
+DDInter1194,Methysergide,Prescription,NA,NA,242,555
+DDInter1195,Meticillin,Prescription,NA,NA,26,50
+DDInter1196,Metipranolol (ophthalmic),Prescription,NA,NA,199,416
+DDInter1197,Metoclopramide,Prescription,A,Alimentary tract and metabolism,666,1032
+DDInter1198,Metocurine,Prescription,NA,NA,118,241
+DDInter1199,Metolazone,Prescription,C,Cardiovascular system,559,949
+DDInter1200,Metoprolol,Prescription,C,Cardiovascular system,774,1221
+DDInter1201,Metreleptin,Prescription,A,Alimentary tract and metabolism,145,288
+DDInter1202,Metronidazole,Prescription,P,Antiparasitic products,620,767
+DDInter1203,Metronidazole (topical),Prescription,D,Dermatologicals,7,15
+DDInter1204,Metyrapone,Prescription,NA,NA,10,20
+DDInter1205,Metyrosine,Prescription,NA,NA,230,459
+DDInter1206,Mexiletine,Prescription,C,Cardiovascular system,214,335
+DDInter1207,Mezlocillin,Prescription,NA,NA,33,64
+DDInter1208,Micafungin,Prescription,J,Antiinfectives for systemic use,8,14
+DDInter1209,Miconazole,Prescription,NA,NA,373,634
+DDInter1210,Miconazole (topical),Excluded (topical OTC),G,Genito-urinary system and sex hormones,3,9
+DDInter1211,Microcrystalline cellulose,Prescription,NA,NA,4,6
+DDInter1212,Midazolam,Prescription,N,Nervous system,533,992
+DDInter1213,Midodrine,Prescription,C,Cardiovascular system,190,346
+DDInter1214,Midostaurin,Prescription,L,Antineoplastic and immunomodulating agents,502,1116
+DDInter1215,Mifepristone,Prescription,G,Genito-urinary system and sex hormones,565,1412
+DDInter1216,Migalastat,Prescription,A,Alimentary tract and metabolism,1,2
+DDInter1217,Miglitol,Prescription,NA,NA,239,453
+DDInter1218,Miglustat,Prescription,A,Alimentary tract and metabolism,1,2
+DDInter1219,Milk thistle,Prescription,NA,NA,4,7
+DDInter1220,Milnacipran,Prescription,NA,NA,356,800
+DDInter1221,Milrinone,Prescription,C,Cardiovascular system,17,34
+DDInter1222,Miltefosine,Prescription,NA,NA,9,18
+DDInter1223,Mineral oil,OTC,D,Dermatologicals,206,410
+DDInter1224,Minocycline,Prescription,J,Antiinfectives for systemic use,272,427
+DDInter1225,Minocycline (topical),Prescription,NA,NA,6,13
+DDInter1226,Minoxidil,Prescription,C,Cardiovascular system,273,431
+DDInter1227,Minoxidil (topical),Excluded (topical OTC),D,Dermatologicals,34,68
+DDInter1228,Mipomersen,Prescription,NA,NA,268,803
+DDInter1229,Mirabegron,Prescription,G,Genito-urinary system and sex hormones,205,298
+DDInter1230,Mirtazapine,Prescription,N,Nervous system,793,1504
+DDInter1231,Misoprostol,Prescription,A,Alimentary tract and metabolism,196,203
+DDInter1232,Mitomycin,Prescription,L,Antineoplastic and immunomodulating agents,193,363
+DDInter1233,Mitotane,Prescription,L,Antineoplastic and immunomodulating agents,288,679
+DDInter1234,Mitoxantrone,Prescription,L,Antineoplastic and immunomodulating agents,354,597
+DDInter1235,Mivacurium,Prescription,NA,NA,156,318
+DDInter1236,Modafinil,Prescription,N,Nervous system,611,906
+DDInter1237,Moexipril,Prescription,NA,NA,397,744
+DDInter1238,Mogamulizumab,Prescription,L,Antineoplastic and immunomodulating agents,82,186
+DDInter1239,Molindone,Prescription,NA,NA,392,821
+DDInter1240,Monomethyl fumarate,Prescription,NA,NA,214,450
+DDInter1241,Monopotassium phosphate,Prescription,NA,NA,70,144
+DDInter1242,Montelukast,Prescription,R,Respiratory system,468,554
+DDInter1243,Moricizine,Prescription,NA,NA,36,73
+DDInter1244,Morphine,Prescription,N,Nervous system,718,1239
+DDInter1245,Morphine (liposomal),Prescription,N,Nervous system,295,685
+DDInter1246,Moxetumomab Pasudotox,Prescription,NA,NA,34,85
+DDInter1247,Moxifloxacin,Prescription,S,Sensory organs,642,1254
+DDInter1248,Mumps virus strain B level jeryl lynn live antigen,Prescription,NA,NA,184,547
+DDInter1249,Mupirocin,OTC,D,Dermatologicals,117,117
+DDInter1250,Muromonab,Prescription,NA,NA,69,159
+DDInter1251,Mycophenolate mofetil,Prescription,L,Antineoplastic and immunomodulating agents,199,416
+DDInter1252,Mycophenolic acid,Prescription,L,Antineoplastic and immunomodulating agents,298,551
+DDInter1253,Nabilone,Prescription,A,Alimentary tract and metabolism,326,656
+DDInter1254,Nabumetone,Prescription,M,Musculo-skeletal system,482,851
+DDInter1255,Nadolol,Prescription,C,Cardiovascular system,560,990
+DDInter1256,Nafcillin,Prescription,NA,NA,253,541
+DDInter1257,Nalbuphine,Prescription,N,Nervous system,423,929
+DDInter1258,Naldemedine,Prescription,NA,NA,142,294
+DDInter1259,Nalidixic acid,Prescription,NA,NA,209,425
+DDInter1260,Nalmefene,Prescription,NA,NA,7,14
+DDInter1261,Naloxegol,Prescription,A,Alimentary tract and metabolism,170,342
+DDInter1262,Naloxone,Prescription,V,Various,85,116
+DDInter1263,Naltrexone,Prescription,N,Nervous system,331,665
+DDInter1264,Naphazoline (nasal),Prescription,NA,NA,38,81
+DDInter1265,Naphazoline (ophthalmic),Excluded (topical OTC),S,Sensory organs,45,96
+DDInter1266,Naproxen,OTC,M,Musculo-skeletal system,650,1062
+DDInter1267,Naratriptan,Prescription,N,Nervous system,128,248
+DDInter1268,Natalizumab,Prescription,L,Antineoplastic and immunomodulating agents,271,770
+DDInter1269,Nateglinide,Prescription,NA,NA,514,901
+DDInter1270,Naxitamab,Prescription,NA,NA,161,340
+DDInter1271,Nebivolol,Prescription,C,Cardiovascular system,444,888
+DDInter1272,Necitumumab,Prescription,NA,NA,4,8
+DDInter1273,Nedocromil,Prescription,NA,NA,1,2
+DDInter1274,Nefazodone,Prescription,NA,NA,756,1649
+DDInter1275,Nelarabine,Prescription,L,Antineoplastic and immunomodulating agents,194,421
+DDInter1276,Nelfinavir,Prescription,NA,NA,506,1136
+DDInter1277,Neomycin,Prescription,NA,NA,183,366
+DDInter1278,Neomycin (topical),Prescription,D,Dermatologicals,20,40
+DDInter1279,Neostigmine,Prescription,NA,NA,100,205
+DDInter1280,Nepafenac (ophthalmic),Prescription,S,Sensory organs,72,143
+DDInter1281,Neratinib,Prescription,L,Antineoplastic and immunomodulating agents,179,441
+DDInter1282,Nesiritide,Prescription,NA,NA,62,123
+DDInter1283,Netilmicin,Prescription,NA,NA,139,320
+DDInter1284,Netupitant,Prescription,A,Alimentary tract and metabolism,219,454
+DDInter1285,Nevirapine,Prescription,J,Antiinfectives for systemic use,478,898
+DDInter1286,Niacin,Prescription,NA,NA,393,485
+DDInter1287,Nicardipine,Prescription,NA,NA,436,804
+DDInter1288,Niclosamide,Prescription,NA,NA,6,13
+DDInter1289,Nicotinamide,Prescription,B,Blood and blood forming organs,64,132
+DDInter1290,Nicotine,Prescription,NA,NA,243,258
+DDInter1291,Nifedipine,Prescription,C,Cardiovascular system,733,1216
+DDInter1292,Nifurtimox,Prescription,NA,NA,5,11
+DDInter1293,Nilotinib,Prescription,L,Antineoplastic and immunomodulating agents,634,1505
+DDInter1294,Nilutamide,Prescription,NA,NA,237,532
+DDInter1295,Nimodipine,Prescription,C,Cardiovascular system,437,886
+DDInter1296,Nintedanib,Prescription,L,Antineoplastic and immunomodulating agents,139,296
+DDInter1297,Niraparib,Prescription,L,Antineoplastic and immunomodulating agents,349,726
+DDInter1298,Nisoldipine,Prescription,NA,NA,427,775
+DDInter1299,Nitazoxanide,Prescription,NA,NA,22,44
+DDInter1300,Nitisinone,Prescription,A,Alimentary tract and metabolism,200,399
+DDInter1301,Nitrazepam,Prescription,N,Nervous system,149,149
+DDInter1302,Nitric Oxide,Prescription,R,Respiratory system,58,75
+DDInter1303,Nitrofurantoin,Prescription,J,Antiinfectives for systemic use,354,498
+DDInter1304,Nitroglycerin,Prescription,C,Cardiovascular system,556,753
+DDInter1305,Nitroprusside,Prescription,NA,NA,175,356
+DDInter1306,Nitrous acid,Prescription,NA,NA,156,353
+DDInter1307,Nitrous oxide,Prescription,N,Nervous system,56,111
+DDInter1308,Nivolumab,Prescription,L,Antineoplastic and immunomodulating agents,13,29
+DDInter1309,Nizatidine,Prescription,A,Alimentary tract and metabolism,263,316
+DDInter1310,Norelgestromin,Prescription,G,Genito-urinary system and sex hormones,4,9
+DDInter1311,Norepinephrine,Prescription,C,Cardiovascular system,157,335
+DDInter1312,Norethisterone,Prescription,NA,NA,303,547
+DDInter1313,Norfloxacin,Prescription,J,Antiinfectives for systemic use,534,1011
+DDInter1314,Norgestimate,Prescription,G,Genito-urinary system and sex hormones,80,181
+DDInter1315,Norgestrel,Prescription,NA,NA,209,437
+DDInter1316,Nortriptyline,Prescription,N,Nervous system,740,1443
+DDInter1317,Novobiocin,Prescription,NA,NA,4,8
+DDInter1318,Nystatin,OTC,A,Alimentary tract and metabolism,347,347
+DDInter1319,Obeticholic acid,Prescription,A,Alimentary tract and metabolism,49,97
+DDInter1320,Obinutuzumab,Prescription,L,Antineoplastic and immunomodulating agents,80,188
+DDInter1321,Ocrelizumab,Prescription,L,Antineoplastic and immunomodulating agents,279,578
+DDInter1322,Octasulfur (topical),Prescription,NA,NA,7,14
+DDInter1323,Octreotide,Prescription,H,Systemic hormonal preparations,269,406
+DDInter1324,Ofatumumab,Prescription,L,Antineoplastic and immunomodulating agents,79,186
+DDInter1325,Ofloxacin,Prescription,S,Sensory organs,737,1201
+DDInter1326,Olanzapine,Prescription,N,Nervous system,771,1397
+DDInter1327,Olaparib,Prescription,L,Antineoplastic and immunomodulating agents,441,977
+DDInter1328,Olaratumab,Prescription,NA,NA,65,156
+DDInter1329,Oliceridine,Prescription,NA,NA,604,1436
+DDInter1330,Olmesartan,Prescription,NA,NA,251,524
+DDInter1331,Olodaterol,Prescription,R,Respiratory system,324,665
+DDInter1332,Olopatadine,Prescription,NA,NA,112,112
+DDInter1333,Olopatadine (nasal),Prescription,R,Respiratory system,274,549
+DDInter1334,Olsalazine,Prescription,A,Alimentary tract and metabolism,105,226
+DDInter1335,Omacetaxine mepesuccinate,Prescription,NA,NA,434,981
+DDInter1336,Omadacycline,Prescription,NA,NA,59,124
+DDInter1337,Omalizumab,Prescription,R,Respiratory system,7,8
+DDInter1338,Ombitasvir,Prescription,NA,NA,4,11
+DDInter1339,Omega-3 fatty acids,Prescription,NA,NA,69,139
+DDInter1340,Omeprazole,OTC,A,Alimentary tract and metabolism,671,836
+DDInter1341,Onasemnogene abeparvovec,Prescription,M,Musculo-skeletal system,18,40
+DDInter1342,Ondansetron,Prescription,A,Alimentary tract and metabolism,645,1075
+DDInter1343,Opicapone,Prescription,NA,NA,255,517
+DDInter1344,Opium,Prescription,NA,NA,369,758
+DDInter1345,Oprelvekin,Prescription,NA,NA,2,6
+DDInter1346,Orciprenaline,Prescription,NA,NA,373,797
+DDInter1347,Oritavancin,Prescription,NA,NA,82,165
+DDInter1348,Orlistat,Prescription,A,Alimentary tract and metabolism,309,424
+DDInter1349,Orphenadrine,OTC,M,Musculo-skeletal system,419,796
+DDInter1350,Oseltamivir,Prescription,J,Antiinfectives for systemic use,148,152
+DDInter1351,Osilodrostat,Prescription,H,Systemic hormonal preparations,411,910
+DDInter1352,Osimertinib,Prescription,L,Antineoplastic and immunomodulating agents,470,1173
+DDInter1353,Ospemifene,Prescription,G,Genito-urinary system and sex hormones,85,176
+DDInter1354,Oxacillin,Prescription,NA,NA,80,109
+DDInter1355,Oxaliplatin,Prescription,L,Antineoplastic and immunomodulating agents,631,1204
+DDInter1356,Oxamniquine,Prescription,NA,NA,33,69
+DDInter1357,Oxandrolone,Prescription,NA,NA,141,230
+DDInter1358,Oxaprozin,Prescription,NA,NA,407,771
+DDInter1359,Oxazepam,Prescription,N,Nervous system,532,888
+DDInter1360,Oxcarbazepine,Prescription,N,Nervous system,638,1182
+DDInter1361,Oxidronic acid,Prescription,NA,NA,1,2
+DDInter1362,Oxitriptan,Prescription,NA,NA,80,219
+DDInter1363,Oxtriphylline,Prescription,R,Respiratory system,178,357
+DDInter1364,Oxybuprocaine (ophthalmic),Prescription,NA,NA,38,76
+DDInter1365,Oxybutynin,Prescription,NA,NA,512,745
+DDInter1366,Oxycodone,Prescription,N,Nervous system,783,1512
+DDInter1367,Oxygen,Prescription,V,Various,2,6
+DDInter1368,Oxymetazoline (nasal),Excluded (topical OTC),R,Respiratory system,46,98
+DDInter1369,Oxymetazoline (ophthalmic),Prescription,NA,NA,45,96
+DDInter1370,Oxymetazoline (topical),Prescription,NA,NA,44,93
+DDInter1371,Oxymetholone,Prescription,NA,NA,69,147
+DDInter1372,Oxymorphone,Prescription,NA,NA,312,732
+DDInter1373,Oxyquinoline (topical),Prescription,NA,NA,1,3
+DDInter1374,Oxytetracycline,Prescription,NA,NA,144,261
+DDInter1375,Oxytocin,Prescription,H,Systemic hormonal preparations,247,550
+DDInter1376,Ozanimod,Prescription,L,Antineoplastic and immunomodulating agents,733,1933
+DDInter1377,Paclitaxel,Prescription,L,Antineoplastic and immunomodulating agents,550,893
+DDInter1378,Paclitaxel (protein-bound),Prescription,L,Antineoplastic and immunomodulating agents,315,652
+DDInter1379,Palbociclib,Prescription,L,Antineoplastic and immunomodulating agents,303,665
+DDInter1380,Palifermin,Prescription,NA,NA,118,236
+DDInter1381,Paliperidone,Prescription,N,Nervous system,602,1270
+DDInter1382,Palonosetron,Prescription,A,Alimentary tract and metabolism,397,791
+DDInter1383,Pamidronic acid,Prescription,NA,NA,329,452
+DDInter1384,Pancrelipase,Prescription,NA,NA,18,36
+DDInter1385,Pancuronium,Prescription,NA,NA,193,357
+DDInter1386,Panitumumab,Prescription,L,Antineoplastic and immunomodulating agents,26,64
+DDInter1387,Panobinostat,Prescription,NA,NA,518,1357
+DDInter1388,Pantoprazole,Prescription,A,Alimentary tract and metabolism,597,732
+DDInter1389,Papaverine,Prescription,A,Alimentary tract and metabolism,235,645
+DDInter1390,Papaya,Prescription,NA,NA,2,2
+DDInter1391,Paraldehyde,Prescription,NA,NA,272,568
+DDInter1392,Paramethadione,Prescription,NA,NA,201,409
+DDInter1393,Parathyroid hormone,Prescription,NA,NA,5,12
+DDInter1394,Paricalcitol,Prescription,NA,NA,234,345
+DDInter1395,Paritaprevir,Prescription,NA,NA,27,72
+DDInter1396,Paromomycin,Prescription,A,Alimentary tract and metabolism,36,84
+DDInter1397,Paroxetine,Prescription,N,Nervous system,757,1301
+DDInter1398,Pasireotide,Prescription,H,Systemic hormonal preparations,358,910
+DDInter1399,Patiromer,Prescription,V,Various,66,144
+DDInter1400,Pazopanib,Prescription,L,Antineoplastic and immunomodulating agents,512,1154
+DDInter1401,Pectin,Prescription,NA,NA,8,16
+DDInter1402,Pegademase,Prescription,NA,NA,2,4
+DDInter1403,Pegaptanib (ophthalmic),Prescription,NA,NA,2,4
+DDInter1404,Pegaspargase,Prescription,L,Antineoplastic and immunomodulating agents,378,785
+DDInter1405,Pegfilgrastim,Prescription,L,Antineoplastic and immunomodulating agents,146,293
+DDInter1406,Peginesatide,Prescription,NA,NA,18,30
+DDInter1407,Peginterferon alfa-2a,Prescription,L,Antineoplastic and immunomodulating agents,171,362
+DDInter1408,Peginterferon alfa-2b,Prescription,NA,NA,169,360
+DDInter1409,Peginterferon beta-1a,Prescription,L,Antineoplastic and immunomodulating agents,277,565
+DDInter1410,Pegloticase,Prescription,NA,NA,11,25
+DDInter1411,Pegvaliase,Prescription,A,Alimentary tract and metabolism,16,32
+DDInter1412,Pegvisomant,Prescription,H,Systemic hormonal preparations,73,146
+DDInter1413,Pembrolizumab,Prescription,L,Antineoplastic and immunomodulating agents,12,27
+DDInter1414,Pemetrexed,Prescription,L,Antineoplastic and immunomodulating agents,364,664
+DDInter1415,Pemigatinib,Prescription,L,Antineoplastic and immunomodulating agents,113,285
+DDInter1416,Pemoline,Prescription,NA,NA,84,167
+DDInter1417,Penbutolol,Prescription,NA,NA,351,706
+DDInter1418,Penciclovir (topical),Prescription,NA,NA,1,2
+DDInter1419,Penicillamine,Prescription,M,Musculo-skeletal system,96,183
+DDInter1420,Pentamidine,Prescription,NA,NA,337,760
+DDInter1421,Pentazocine,Prescription,NA,NA,405,937
+DDInter1422,Pentetic acid,Prescription,NA,NA,1,3
+DDInter1423,Pentobarbital,Prescription,NA,NA,484,981
+DDInter1424,Pentosan polysulfate,Prescription,C,Cardiovascular system,71,142
+DDInter1425,Pentostatin,Prescription,NA,NA,137,288
+DDInter1426,Pentoxifylline,Prescription,C,Cardiovascular system,374,608
+DDInter1427,Pentoxyverine,Prescription,NA,NA,233,473
+DDInter1428,Perampanel,Prescription,N,Nervous system,277,543
+DDInter1429,Perflutren,Prescription,V,Various,217,486
+DDInter1430,Pergolide,Prescription,NA,NA,286,537
+DDInter1431,Perindopril,Prescription,NA,NA,475,824
+DDInter1432,Perphenazine,Prescription,N,Nervous system,669,1390
+DDInter1434,Pertuzumab,Prescription,L,Antineoplastic and immunomodulating agents,1,2
+DDInter1435,Pexidartinib,Prescription,NA,NA,475,1254
+DDInter1436,Pfizer-BioNTech Covid-19 Vaccine,Prescription,NA,NA,182,363
+DDInter1437,Phenacemide,Prescription,NA,NA,192,380
+DDInter1438,Phenazopyridine,Prescription,G,Genito-urinary system and sex hormones,35,77
+DDInter1439,Phendimetrazine,Prescription,NA,NA,149,335
+DDInter1440,Phenelzine,Prescription,N,Nervous system,513,1143
+DDInter1441,Phenindamine,Prescription,NA,NA,225,454
+DDInter1442,Phenobarbital,Prescription,N,Nervous system,688,1512
+DDInter1443,Phenolphthalein,Prescription,NA,NA,181,361
+DDInter1444,Phenoxybenzamine,Prescription,NA,NA,174,348
+DDInter1445,Phenoxymethylpenicillin,Prescription,NA,NA,63,93
+DDInter1446,Phensuximide,Prescription,NA,NA,205,412
+DDInter1447,Phentermine,Prescription,NA,NA,249,457
+DDInter1448,Phentolamine,Prescription,C,Cardiovascular system,156,298
+DDInter1449,Phenyl salicylate,Prescription,NA,NA,164,320
+DDInter1450,Phenylacetic acid,Prescription,NA,NA,2,5
+DDInter1451,Phenylbutazone,Prescription,NA,NA,436,912
+DDInter1452,Phenylbutyric acid,Prescription,NA,NA,16,34
+DDInter1453,Phenylephrine,OTC,C,Cardiovascular system,177,378
+DDInter1454,Phenylephrine (nasal),Prescription,R,Respiratory system,49,105
+DDInter1455,Phenylephrine (ophthalmic),Prescription,S,Sensory organs,86,179
+DDInter1456,Phenylephrine (otic),Prescription,NA,NA,2,4
+DDInter1457,Phenylephrine (topical),Excluded (topical OTC),C,Cardiovascular system,42,90
+DDInter1458,Phenylpropanolamine,Prescription,NA,NA,176,393
+DDInter1459,Phenyltoloxamine,Prescription,NA,NA,234,472
+DDInter1460,Phenytoin,Prescription,N,Nervous system,882,1754
+DDInter1461,Phylloquinone,Prescription,NA,NA,152,159
+DDInter1462,Physostigmine,Prescription,NA,NA,146,297
+DDInter1463,Physostigmine (ophthalmic),Prescription,NA,NA,91,183
+DDInter1464,Picosulfuric acid,Prescription,NA,NA,459,944
+DDInter1465,Pilocarpine,Prescription,N,Nervous system,224,295
+DDInter1466,Pilocarpine (ophthalmic),Prescription,S,Sensory organs,97,193
+DDInter1467,Pimavanserin,Prescription,NA,NA,344,788
+DDInter1468,Pimecrolimus,Prescription,NA,NA,102,102
+DDInter1469,Pimecrolimus (topical),Prescription,D,Dermatologicals,76,83
+DDInter1470,Pimozide,Prescription,N,Nervous system,579,1464
+DDInter1471,Pindolol,Prescription,C,Cardiovascular system,479,927
+DDInter1472,Pioglitazone,Prescription,A,Alimentary tract and metabolism,601,877
+DDInter1473,Pipecuronium,Prescription,NA,NA,121,248
+DDInter1474,Piperacillin,Prescription,J,Antiinfectives for systemic use,163,212
+DDInter1475,Piperazine,Prescription,NA,NA,14,32
+DDInter1476,Pirbuterol,Prescription,NA,NA,424,753
+DDInter1477,Pirfenidone,Prescription,L,Antineoplastic and immunomodulating agents,109,232
+DDInter1478,Piroxicam,Prescription,M,Musculo-skeletal system,464,848
+DDInter1479,Pitavastatin,Prescription,NA,NA,141,296
+DDInter1480,Pitolisant,Prescription,N,Nervous system,411,902
+DDInter1481,Plantago seed,Prescription,NA,NA,29,31
+DDInter1482,Plazomicin,Prescription,NA,NA,175,397
+DDInter1483,Plecanatide,Prescription,A,Alimentary tract and metabolism,1,2
+DDInter1484,Plicamycin,Prescription,NA,NA,137,315
+DDInter1485,Polatuzumab vedotin,Prescription,L,Antineoplastic and immunomodulating agents,210,454
+DDInter1486,Poliovirus type 1 antigen (formaldehyde inactivated),Prescription,NA,NA,186,372
+DDInter1487,Polyethylene glycol (3350 with electrolytes),OTC,A,Alimentary tract and metabolism,374,780
+DDInter1488,Polyethylene glycol (3350),OTC,A,Alimentary tract and metabolism,203,405
+DDInter1489,Polymyxin B,OTC,S,Sensory organs,72,189
+DDInter1490,Polythiazide,Prescription,NA,NA,411,802
+DDInter1491,Pomalidomide,Prescription,L,Antineoplastic and immunomodulating agents,258,572
+DDInter1492,Ponatinib,Prescription,L,Antineoplastic and immunomodulating agents,448,1015
+DDInter1493,Porfimer sodium,Prescription,NA,NA,191,383
+DDInter1494,Posaconazole,Prescription,J,Antiinfectives for systemic use,557,1252
+DDInter1500,Potassium Iodide,Prescription,NA,NA,45,109
+DDInter1495,Potassium acetate,Prescription,B,Blood and blood forming organs,40,87
+DDInter1496,Potassium bicarbonate,Prescription,NA,NA,59,126
+DDInter1497,Potassium chloride,Prescription,B,Blood and blood forming organs,548,767
+DDInter1498,Potassium citrate,Prescription,A,Alimentary tract and metabolism,181,438
+DDInter1499,Potassium gluconate,Prescription,NA,NA,59,126
+DDInter1501,Potassium perchlorate,Prescription,NA,NA,36,66
+DDInter1502,Pralatrexate,Prescription,L,Antineoplastic and immunomodulating agents,135,299
+DDInter1503,Pralidoxime,Prescription,NA,NA,3,5
+DDInter1504,Pralsetinib,Prescription,NA,NA,124,287
+DDInter1505,Pramipexole,Prescription,N,Nervous system,444,666
+DDInter1506,Pramlintide,Prescription,NA,NA,251,484
+DDInter1507,Prasterone enantate,Prescription,NA,NA,33,67
+DDInter1508,Prasugrel,Prescription,B,Blood and blood forming organs,191,442
+DDInter1509,Pravastatin,Prescription,C,Cardiovascular system,532,699
+DDInter1510,Praziquantel,Prescription,NA,NA,83,177
+DDInter1511,Prazosin,Prescription,C,Cardiovascular system,271,502
+DDInter1512,Prednicarbate (topical),Prescription,D,Dermatologicals,44,44
+DDInter1513,Prednisolone,Prescription,H,Systemic hormonal preparations,751,1224
+DDInter1514,Prednisolone (ophthalmic),Prescription,S,Sensory organs,36,73
+DDInter1515,Prednisone,Prescription,H,Systemic hormonal preparations,805,1278
+DDInter1516,Pregabalin,Prescription,N,Nervous system,537,829
+DDInter1517,Pretomanid,Prescription,NA,NA,34,92
+DDInter1518,Prilocaine,Prescription,N,Nervous system,63,164
+DDInter1519,Prilocaine (topiclal),Excluded (topical OTC),N,Nervous system,26,78
+DDInter1520,Primaquine,Prescription,P,Antiparasitic products,278,625
+DDInter1521,Primidone,Prescription,N,Nervous system,678,1412
+DDInter1522,Probenecid,Prescription,NA,NA,233,310
+DDInter1523,Probucol,Prescription,NA,NA,210,470
+DDInter1524,Procainamide,Prescription,C,Cardiovascular system,329,840
+DDInter1525,Procaine,Prescription,NA,NA,45,89
+DDInter1526,Procarbazine,Prescription,L,Antineoplastic and immunomodulating agents,433,1004
+DDInter1527,Prochlorperazine,Prescription,N,Nervous system,825,1517
+DDInter1528,Procyclidine,Prescription,NA,NA,310,605
+DDInter1529,Progesterone,Prescription,G,Genito-urinary system and sex hormones,332,495
+DDInter1530,Progesterone (topical),Prescription,G,Genito-urinary system and sex hormones,131,259
+DDInter1531,Proguanil,Prescription,P,Antiparasitic products,33,67
+DDInter1532,Promazine,Prescription,NA,NA,572,1222
+DDInter1533,Promethazine,OTC,R,Respiratory system,832,1526
+DDInter1534,Propafenone,Prescription,C,Cardiovascular system,402,826
+DDInter1535,Propantheline,Prescription,NA,NA,199,383
+DDInter1536,Proparacaine (ophthalmic),Prescription,S,Sensory organs,38,76
+DDInter1537,Propiomazine,Prescription,NA,NA,422,875
+DDInter1538,Propofol,Prescription,N,Nervous system,531,860
+DDInter1539,Propranolol,Prescription,C,Cardiovascular system,726,1217
+DDInter1540,Propylhexedrine (nasal),Prescription,NA,NA,36,78
+DDInter1541,Propylthiouracil,Prescription,H,Systemic hormonal preparations,81,137
+DDInter1542,Protein C,Prescription,B,Blood and blood forming organs,32,65
+DDInter1543,Protriptyline,Prescription,NA,NA,576,1247
+DDInter1544,Prucalopride,Prescription,A,Alimentary tract and metabolism,97,140
+DDInter1545,Pseudoephedrine,OTC,N,Nervous system,150,309
+DDInter1546,Pyrantel,OTC,P,Antiparasitic products,2,4
+DDInter1547,Pyrazinamide,Prescription,J,Antiinfectives for systemic use,110,151
+DDInter1548,Pyridostigmine,Prescription,N,Nervous system,153,222
+DDInter1549,Pyridoxine,Prescription,A,Alimentary tract and metabolism,13,17
+DDInter1550,Pyrimethamine,Prescription,NA,NA,42,72
+DDInter1551,Pyrophosphoric acid,Prescription,NA,NA,1,2
+DDInter1552,Quazepam,Prescription,NA,NA,432,811
+DDInter1553,Quetiapine,Prescription,N,Nervous system,825,1590
+DDInter1554,Quinapril,Prescription,C,Cardiovascular system,568,966
+DDInter1555,Quinestrol,Prescription,NA,NA,161,312
+DDInter1556,Quinidine,Prescription,NA,NA,692,1393
+DDInter1557,Quinine,Prescription,P,Antiparasitic products,414,900
+DDInter1558,Quinupristin,Prescription,NA,NA,1,2
+DDInter1559,Rabeprazole,Prescription,A,Alimentary tract and metabolism,486,618
+DDInter1560,Racepinephrine,Prescription,NA,NA,112,222
+DDInter1561,Radium Ra 223 dichloride,Prescription,NA,NA,154,310
+DDInter1562,Raloxifene,Prescription,G,Genito-urinary system and sex hormones,304,334
+DDInter1563,Raltegravir,Prescription,J,Antiinfectives for systemic use,58,94
+DDInter1564,Ramelteon,Prescription,NA,NA,355,738
+DDInter1565,Ramipril,Prescription,C,Cardiovascular system,648,997
+DDInter1566,Ramucirumab,Prescription,L,Antineoplastic and immunomodulating agents,126,349
+DDInter1567,Ranibizumab (ophthalmic),Prescription,NA,NA,1,2
+DDInter1568,Ranitidine,OTC,A,Alimentary tract and metabolism,584,662
+DDInter1569,Ranitidine (bismuth citrate),OTC,A,Alimentary tract and metabolism,106,173
+DDInter1570,Ranolazine,Prescription,C,Cardiovascular system,529,1130
+DDInter1571,Rapacuronium,Prescription,NA,NA,122,249
+DDInter1572,Rasagiline,Prescription,N,Nervous system,478,1045
+DDInter1573,Rasburicase,Prescription,V,Various,13,28
+DDInter1574,Ravulizumab,Prescription,L,Antineoplastic and immunomodulating agents,4,4
+DDInter1575,Regadenoson,Prescription,NA,NA,6,12
+DDInter1576,Regorafenib,Prescription,L,Antineoplastic and immunomodulating agents,211,515
+DDInter1577,Relugolix,Prescription,L,Antineoplastic and immunomodulating agents,237,530
+DDInter1578,Remdesivir,Prescription,J,Antiinfectives for systemic use,311,624
+DDInter1579,Remifentanil,Prescription,N,Nervous system,349,796
+DDInter1580,Remimazolam,Prescription,NA,NA,316,648
+DDInter1581,Repaglinide,Prescription,A,Alimentary tract and metabolism,578,1032
+DDInter1582,Reserpine,Prescription,NA,NA,272,542
+DDInter1583,Resorcinol (topical),Prescription,NA,NA,4,8
+DDInter1584,Retapamulin (topical),Prescription,NA,NA,68,72
+DDInter1585,Reteplase,Prescription,NA,NA,137,314
+DDInter1586,Revefenacin,Prescription,NA,NA,141,281
+DDInter1587,Ribavirin,Prescription,J,Antiinfectives for systemic use,282,300
+DDInter1588,Ribociclib,Prescription,L,Antineoplastic and immunomodulating agents,578,1407
+DDInter1589,Rifabutin,Prescription,J,Antiinfectives for systemic use,368,838
+DDInter1590,Rifampicin,Prescription,NA,NA,584,1228
+DDInter1591,Rifamycin,Prescription,NA,NA,3,8
+DDInter1592,Rifapentine,Prescription,NA,NA,402,945
+DDInter1593,Rifaximin,Prescription,A,Alimentary tract and metabolism,69,119
+DDInter1594,Rilonacept,Prescription,NA,NA,308,638
+DDInter1595,Rilpivirine,Prescription,J,Antiinfectives for systemic use,359,806
+DDInter1596,Riluzole,Prescription,N,Nervous system,67,108
+DDInter1597,Rimantadine,Prescription,NA,NA,12,27
+DDInter1598,Rimegepant,Prescription,N,Nervous system,105,233
+DDInter1599,Rimexolone (ophthalmic),Prescription,NA,NA,7,15
+DDInter1600,Riociguat,Prescription,C,Cardiovascular system,239,497
+DDInter1601,Ripretinib,Prescription,L,Antineoplastic and immunomodulating agents,176,388
+DDInter1602,Risankizumab,Prescription,L,Antineoplastic and immunomodulating agents,78,175
+DDInter1603,Risdiplam,Prescription,M,Musculo-skeletal system,2,4
+DDInter1604,Risedronic acid,Prescription,NA,NA,420,508
+DDInter1605,Risperidone,Prescription,N,Nervous system,796,1498
+DDInter1606,Ritodrine,Prescription,NA,NA,319,689
+DDInter1607,Ritonavir,Prescription,J,Antiinfectives for systemic use,720,1469
+DDInter1608,Rituximab,Prescription,L,Antineoplastic and immunomodulating agents,89,203
+DDInter1609,Rivaroxaban,Prescription,B,Blood and blood forming organs,312,736
+DDInter1610,Rivastigmine,Prescription,N,Nervous system,417,719
+DDInter1611,Rizatriptan,Prescription,N,Nervous system,207,329
+DDInter1612,Rocuronium,Prescription,M,Musculo-skeletal system,210,370
+DDInter1613,Rofecoxib,Prescription,NA,NA,546,784
+DDInter1614,Roflumilast,Prescription,R,Respiratory system,270,538
+DDInter1615,Rolapitant,Prescription,NA,NA,202,423
+DDInter1616,Romidepsin,Prescription,L,Antineoplastic and immunomodulating agents,377,835
+DDInter1617,Romiplostim,Prescription,B,Blood and blood forming organs,1,3
+DDInter1618,Romosozumab,Prescription,M,Musculo-skeletal system,38,77
+DDInter1619,Ropinirole,Prescription,N,Nervous system,491,766
+DDInter1620,Ropivacaine,Prescription,N,Nervous system,168,235
+DDInter1621,Rosiglitazone,Prescription,A,Alimentary tract and metabolism,572,830
+DDInter1622,Rosuvastatin,Prescription,C,Cardiovascular system,523,731
+DDInter1623,Rotavirus vaccine,Prescription,NA,NA,228,662
+DDInter1624,Rotigotine,Prescription,N,Nervous system,240,482
+DDInter1625,Rubella virus vaccine,Prescription,NA,NA,220,641
+DDInter1626,Rucaparib,Prescription,NA,NA,586,1251
+DDInter1627,Rufinamide,Prescription,N,Nervous system,446,885
+DDInter1628,Ruxolitinib,Prescription,L,Antineoplastic and immunomodulating agents,334,699
+DDInter1629,Sacituzumab govitecan,Prescription,L,Antineoplastic and immunomodulating agents,56,151
+DDInter1630,Sacubitril,Prescription,C,Cardiovascular system,15,31
+DDInter1631,Safinamide,Prescription,N,Nervous system,307,681
+DDInter1632,Salbutamol,Prescription,R,Respiratory system,753,1152
+DDInter1633,Salicylic acid (sodium),Prescription,NA,NA,194,366
+DDInter1634,Salicylic acid (topical),Excluded (topical OTC),D,Dermatologicals,7,14
+DDInter1635,Salmeterol,Prescription,R,Respiratory system,597,1017
+DDInter1636,Salmon calcitonin,Prescription,NA,NA,5,9
+DDInter1637,Salsalate,Prescription,NA,NA,238,473
+DDInter1638,Samarium (153Sm) lexidronam,Prescription,NA,NA,155,460
+DDInter1639,Sapropterin,Prescription,A,Alimentary tract and metabolism,20,40
+DDInter1640,Saquinavir,Prescription,NA,NA,664,1600
+DDInter1641,Sarecycline,Prescription,NA,NA,164,333
+DDInter1642,Sargramostim,Prescription,NA,NA,145,291
+DDInter1643,Sarilumab,Prescription,L,Antineoplastic and immunomodulating agents,174,378
+DDInter1644,Satralizumab,Prescription,L,Antineoplastic and immunomodulating agents,134,294
+DDInter1645,Saw palmetto,Prescription,NA,NA,11,11
+DDInter1646,Saxagliptin,Prescription,A,Alimentary tract and metabolism,356,693
+DDInter1647,Scopolamine,Prescription,N,Nervous system,293,482
+DDInter1648,Scopolamine (ophthalmic),Prescription,NA,NA,17,34
+DDInter1649,Secnidazole,Prescription,NA,NA,92,186
+DDInter1650,Secobarbital,Prescription,NA,NA,550,1112
+DDInter1651,Secretin human,Prescription,NA,NA,10,10
+DDInter1652,Secukinumab,Prescription,L,Antineoplastic and immunomodulating agents,138,295
+DDInter1653,Selegiline,Prescription,N,Nervous system,392,844
+DDInter1654,Selenium,Prescription,A,Alimentary tract and metabolism,27,55
+DDInter1655,Selenium Sulfide,Prescription,NA,NA,79,79
+DDInter1656,Selexipag,Prescription,B,Blood and blood forming organs,190,379
+DDInter1657,Selinexor,Prescription,L,Antineoplastic and immunomodulating agents,80,188
+DDInter1658,Selpercatinib,Prescription,L,Antineoplastic and immunomodulating agents,490,1213
+DDInter1659,Selumetinib,Prescription,L,Antineoplastic and immunomodulating agents,149,356
+DDInter1660,Semaglutide,Prescription,A,Alimentary tract and metabolism,233,449
+DDInter1661,Sermorelin,Prescription,NA,NA,40,80
+DDInter1662,Sertraline,Prescription,N,Nervous system,859,1603
+DDInter1663,Sevelamer,Prescription,V,Various,239,274
+DDInter1664,Sevoflurane,Prescription,N,Nervous system,367,713
+DDInter1665,Sibutramine,Prescription,NA,NA,570,1129
+DDInter1666,Sildenafil,Prescription,G,Genito-urinary system and sex hormones,526,845
+DDInter1667,Silodosin,Prescription,G,Genito-urinary system and sex hormones,341,706
+DDInter1668,Siltuximab,Prescription,L,Antineoplastic and immunomodulating agents,139,298
+DDInter1669,Silver (topical),Prescription,NA,NA,1,2
+DDInter1670,Silver nitrate (ophthalmic),Prescription,NA,NA,11,23
+DDInter1671,Silver nitrate (topical),Prescription,NA,NA,13,28
+DDInter1672,Silver sulfadiazine (topical),Prescription,NA,NA,13,28
+DDInter1673,Simeprevir,Prescription,NA,NA,131,319
+DDInter1674,Simethicone,OTC,A,Alimentary tract and metabolism,2,4
+DDInter1675,Simvastatin,Prescription,C,Cardiovascular system,695,1014
+DDInter1676,Siponimod,Prescription,L,Antineoplastic and immunomodulating agents,575,1651
+DDInter1677,Sipuleucel-T,Prescription,NA,NA,214,429
+DDInter1678,Sirolimus,Prescription,L,Antineoplastic and immunomodulating agents,644,1327
+DDInter1679,Sitagliptin,Prescription,A,Alimentary tract and metabolism,264,508
+DDInter1680,"Smallpox (Vaccinia) Vaccine, Live",Prescription,NA,NA,199,595
+DDInter1681,Sodium acetate,Prescription,B,Blood and blood forming organs,30,51
+DDInter1682,Sodium aurothiomalate,Prescription,NA,NA,108,228
+DDInter1683,Sodium bicarbonate,Prescription,B,Blood and blood forming organs,348,433
+DDInter1684,Sodium cellulose phosphate,Prescription,NA,NA,2,5
+DDInter1685,Sodium chloride,Prescription,B,Blood and blood forming organs,2,4
+DDInter1686,Sodium citrate,Prescription,V,Various,114,184
+DDInter1687,Sodium ferric gluconate complex,Prescription,NA,NA,15,31
+DDInter1688,Sodium glycerophosphate,Prescription,B,Blood and blood forming organs,1,3
+DDInter1689,Sodium iodide,Prescription,NA,NA,2,4
+DDInter1690,Sodium oxybate,Prescription,N,Nervous system,327,891
+DDInter1691,"Sodium phosphate, monobasic",Prescription,V,Various,10,14
+DDInter1692,"Sodium phosphate, monobasic (p32)",Prescription,V,Various,136,274
+DDInter1693,Sodium sulfate,Prescription,A,Alimentary tract and metabolism,358,746
+DDInter1694,Sodium zirconium cyclosilicate,Prescription,V,Various,16,32
+DDInter1695,Sofosbuvir,Prescription,J,Antiinfectives for systemic use,26,67
+DDInter1696,Solifenacin,Prescription,G,Genito-urinary system and sex hormones,446,955
+DDInter1697,Solriamfetol,Prescription,N,Nervous system,81,172
+DDInter1698,Somapacitan,Prescription,H,Systemic hormonal preparations,371,736
+DDInter1699,Somatotropin,Prescription,NA,NA,405,803
+DDInter1700,Somatrem,Prescription,NA,NA,379,752
+DDInter1701,Sonidegib,Prescription,L,Antineoplastic and immunomodulating agents,150,361
+DDInter1702,Sorafenib,Prescription,L,Antineoplastic and immunomodulating agents,496,929
+DDInter1703,Sorbitol,Prescription,B,Blood and blood forming organs,2,5
+DDInter1704,Sotalol,Prescription,C,Cardiovascular system,647,1392
+DDInter1705,Sparfloxacin,Prescription,NA,NA,370,892
+DDInter1706,Spectinomycin,Prescription,NA,NA,13,30
+DDInter1707,Spironolactone,Prescription,C,Cardiovascular system,622,977
+DDInter1708,St. John's Wort,Prescription,NA,NA,524,1245
+DDInter1709,Stanozolol,Prescription,NA,NA,67,141
+DDInter1710,Stavudine,Prescription,NA,NA,269,386
+DDInter1711,Stiripentol,Prescription,N,Nervous system,547,1143
+DDInter1712,Streptokinase,Prescription,NA,NA,122,278
+DDInter1713,Streptomycin,Prescription,NA,NA,177,385
+DDInter1714,Streptozocin,Prescription,NA,NA,162,352
+DDInter1715,Strontium chloride Sr-89,Prescription,NA,NA,170,342
+DDInter1716,Succinylcholine,Prescription,NA,NA,166,322
+DDInter1717,Sucralfate,Prescription,A,Alimentary tract and metabolism,413,523
+DDInter1718,Sufentanil,Prescription,N,Nervous system,488,1040
+DDInter1719,Sugammadex,Prescription,V,Various,31,72
+DDInter1720,Sulfacetamide (ophthalmic),Prescription,NA,NA,1,2
+DDInter1721,Sulfadiazine,Prescription,NA,NA,141,254
+DDInter1722,Sulfadoxine,Prescription,NA,NA,75,160
+DDInter1723,Sulfamethizole,Prescription,NA,NA,87,185
+DDInter1724,Sulfamethoxazole,Prescription,J,Antiinfectives for systemic use,295,415
+DDInter1725,Sulfasalazine,Prescription,A,Alimentary tract and metabolism,403,630
+DDInter1726,Sulfinpyrazone,Prescription,NA,NA,312,621
+DDInter1727,Sulfisoxazole,Prescription,NA,NA,86,183
+DDInter1728,Sulfur hexafluoride,Prescription,V,Various,1,2
+DDInter1729,Sulindac,Prescription,M,Musculo-skeletal system,404,773
+DDInter1730,Sumatriptan,Prescription,N,Nervous system,290,412
+DDInter1731,Sunitinib,Prescription,L,Antineoplastic and immunomodulating agents,396,870
+DDInter1732,Suprofen (ophthalmic),Prescription,NA,NA,75,149
+DDInter1733,Suvorexant,Prescription,NA,NA,429,935
+DDInter1734,Tacrine,Prescription,NA,NA,301,609
+DDInter1735,Tacrolimus,Prescription,L,Antineoplastic and immunomodulating agents,866,1760
+DDInter1736,Tadalafil,Prescription,G,Genito-urinary system and sex hormones,393,566
+DDInter1737,Tafamidis,Prescription,N,Nervous system,25,51
+DDInter1738,Tafasitamab,Prescription,L,Antineoplastic and immunomodulating agents,49,120
+DDInter1739,Tafenoquine,Prescription,NA,NA,21,46
+DDInter1740,Tafluprost (ophthalmic),Prescription,NA,NA,5,10
+DDInter1741,Tagraxofusp,Prescription,NA,NA,66,139
+DDInter1742,Talazoparib,Prescription,L,Antineoplastic and immunomodulating agents,183,399
+DDInter1743,Talimogene laherparepvec,Prescription,NA,NA,213,634
+DDInter1744,Tamoxifen,Prescription,L,Antineoplastic and immunomodulating agents,541,1011
+DDInter1745,Tamsulosin,Prescription,G,Genito-urinary system and sex hormones,517,795
+DDInter1746,Tapentadol,Prescription,N,Nervous system,362,902
+DDInter1747,Tasimelteon,Prescription,NA,NA,377,797
+DDInter1748,Tazarotene,Prescription,NA,NA,22,22
+DDInter1749,Tazarotene (topical),Prescription,D,Dermatologicals,9,19
+DDInter1750,Tazemetostat,Prescription,NA,NA,326,724
+DDInter1751,Tazobactam,Prescription,J,Antiinfectives for systemic use,2,4
+DDInter1752,Tedizolid,Prescription,NA,NA,43,90
+DDInter1753,Teduglutide,Prescription,A,Alimentary tract and metabolism,16,33
+DDInter1754,Tegaserod,Prescription,NA,NA,236,236
+DDInter1755,Telaprevir,Prescription,NA,NA,371,894
+DDInter1756,Telavancin,Prescription,NA,NA,264,608
+DDInter1757,Telbivudine,Prescription,NA,NA,172,350
+DDInter1758,Telithromycin,Prescription,NA,NA,681,1449
+DDInter1759,Telmisartan,Prescription,C,Cardiovascular system,479,763
+DDInter1760,Telotristat ethyl,Prescription,A,Alimentary tract and metabolism,275,562
+DDInter1761,Temazepam,Prescription,N,Nervous system,643,1009
+DDInter1762,Temozolomide,Prescription,L,Antineoplastic and immunomodulating agents,320,495
+DDInter1763,Temsirolimus,Prescription,L,Antineoplastic and immunomodulating agents,539,1227
+DDInter1764,Tenecteplase,Prescription,B,Blood and blood forming organs,137,314
+DDInter1765,Teniposide,Prescription,NA,NA,229,467
+DDInter1766,Teprotumumab,Prescription,L,Antineoplastic and immunomodulating agents,44,88
+DDInter1767,Terazosin,Prescription,G,Genito-urinary system and sex hormones,380,592
+DDInter1768,Terbinafine,Prescription,D,Dermatologicals,306,449
+DDInter1769,Terbutaline,Prescription,R,Respiratory system,404,858
+DDInter1770,Terfenadine,Prescription,NA,NA,288,654
+DDInter1771,Teriflunomide,Prescription,L,Antineoplastic and immunomodulating agents,560,1550
+DDInter1772,Teriparatide,Prescription,H,Systemic hormonal preparations,6,10
+DDInter1773,Tesamorelin,Prescription,NA,NA,45,90
+DDInter1774,Testolactone,Prescription,NA,NA,15,31
+DDInter1775,Testosterone,Prescription,G,Genito-urinary system and sex hormones,371,524
+DDInter1776,Testosterone (topical),Prescription,NA,NA,121,246
+DDInter1777,Tetanus Immune Globulin,Prescription,NA,NA,13,26
+DDInter1778,Tetrabenazine,Prescription,N,Nervous system,499,1096
+DDInter1779,Tetracaine,Prescription,D,Dermatologicals,32,65
+DDInter1780,Tetracaine (ophthalmic),Prescription,S,Sensory organs,37,74
+DDInter1781,Tetracaine (topical),Prescription,D,Dermatologicals,35,72
+DDInter1782,Tetracosactide,Prescription,H,Systemic hormonal preparations,276,556
+DDInter1783,Tetracycline,Prescription,J,Antiinfectives for systemic use,308,449
+DDInter1784,Tetracycline (topical),Prescription,NA,NA,5,10
+DDInter1785,Tetraferric tricitrate decahydrate,Prescription,NA,NA,50,102
+DDInter1786,Tetrofosmin,Prescription,NA,NA,32,64
+DDInter1787,Tetryzoline (nasal),Prescription,NA,NA,46,105
+DDInter1788,Tetryzoline (ophthalmic),Excluded (topical OTC),S,Sensory organs,45,96
+DDInter1789,Thalidomide,Prescription,L,Antineoplastic and immunomodulating agents,785,1599
+DDInter1790,Thallous Chloride,Prescription,NA,NA,35,70
+DDInter1791,Theophylline,Prescription,R,Respiratory system,367,620
+DDInter1792,Thiabendazole,Prescription,NA,NA,40,81
+DDInter1793,Thiethylperazine,Prescription,NA,NA,396,801
+DDInter1794,Thimerosal (topical),Prescription,NA,NA,1,2
+DDInter1795,Thiopental,Prescription,NA,NA,193,369
+DDInter1796,Thioridazine,Prescription,NA,NA,663,1572
+DDInter1797,Thiotepa,Prescription,L,Antineoplastic and immunomodulating agents,200,397
+DDInter1798,Thiothixene,Prescription,NA,NA,421,851
+DDInter1799,"Thyroid, porcine",Prescription,NA,NA,168,315
+DDInter1800,Thyrotropin alfa,Prescription,H,Systemic hormonal preparations,45,90
+DDInter1801,Tiagabine,Prescription,NA,NA,363,643
+DDInter1802,Ticagrelor,Prescription,B,Blood and blood forming organs,421,854
+DDInter1803,Ticarcillin,Prescription,NA,NA,38,73
+DDInter1804,Ticlopidine,Prescription,NA,NA,282,498
+DDInter1805,Tigecycline,Prescription,J,Antiinfectives for systemic use,57,82
+DDInter1806,Tildrakizumab,Prescription,L,Antineoplastic and immunomodulating agents,78,175
+DDInter1807,Tilmanocept,Prescription,NA,NA,10,20
+DDInter1808,Tiludronic acid,Prescription,NA,NA,73,148
+DDInter1809,Timolol,Prescription,C,Cardiovascular system,575,1032
+DDInter1810,Timolol (ophthalmic),Prescription,S,Sensory organs,249,522
+DDInter1811,Tinidazole,Prescription,NA,NA,161,324
+DDInter1812,Tinzaparin,Prescription,B,Blood and blood forming organs,155,385
+DDInter1813,Tioconazole,Prescription,NA,NA,1,1
+DDInter1814,Tioguanine,Prescription,NA,NA,386,784
+DDInter1815,Tiotropium,Prescription,R,Respiratory system,425,525
+DDInter1816,Tipiracil,Prescription,L,Antineoplastic and immunomodulating agents,24,48
+DDInter1817,Tipranavir,Prescription,NA,NA,328,731
+DDInter1818,Tirofiban,Prescription,B,Blood and blood forming organs,151,330
+DDInter1819,Tisagenlecleucel,Prescription,L,Antineoplastic and immunomodulating agents,50,122
+DDInter1820,Tivozanib,Prescription,NA,NA,4,10
+DDInter1821,Tizanidine,Prescription,M,Musculo-skeletal system,677,1470
+DDInter1822,Tobramycin,Prescription,S,Sensory organs,318,528
+DDInter1823,Tocainide,Prescription,NA,NA,39,79
+DDInter1824,Tocilizumab,Prescription,L,Antineoplastic and immunomodulating agents,231,491
+DDInter1825,Tofacitinib,Prescription,L,Antineoplastic and immunomodulating agents,450,1157
+DDInter1826,Tolazamide,Prescription,NA,NA,419,825
+DDInter1827,Tolazoline,Prescription,NA,NA,66,131
+DDInter1828,Tolbutamide,Prescription,NA,NA,461,889
+DDInter1829,Tolcapone,Prescription,NA,NA,265,529
+DDInter1830,Tolevamer,Prescription,NA,NA,82,180
+DDInter1831,Tolmetin,Prescription,NA,NA,311,673
+DDInter1832,Tolterodine,Prescription,G,Genito-urinary system and sex hormones,556,829
+DDInter1833,Tolvaptan,Prescription,C,Cardiovascular system,259,556
+DDInter1834,Topiramate,Prescription,N,Nervous system,517,874
+DDInter1835,Topotecan,Prescription,L,Antineoplastic and immunomodulating agents,296,587
+DDInter1836,Torasemide,Prescription,NA,NA,605,1066
+DDInter1837,Toremifene,Prescription,NA,NA,349,922
+DDInter1838,Tositumomab,Prescription,NA,NA,166,427
+DDInter1839,Tositumomab (I-131),Prescription,NA,NA,193,496
+DDInter1840,Trabectedin,Prescription,L,Antineoplastic and immunomodulating agents,449,964
+DDInter1841,Tramadol,Prescription,N,Nervous system,745,1570
+DDInter1842,Trametinib,Prescription,L,Antineoplastic and immunomodulating agents,15,30
+DDInter1843,Trandolapril,Prescription,C,Cardiovascular system,373,720
+DDInter1844,Tranexamic acid,Prescription,B,Blood and blood forming organs,34,94
+DDInter1845,Tranylcypromine,Prescription,N,Nervous system,508,1136
+DDInter1846,Trastuzumab,Prescription,L,Antineoplastic and immunomodulating agents,93,221
+DDInter1847,Trastuzumab deruxtecan,Prescription,L,Antineoplastic and immunomodulating agents,51,124
+DDInter1848,Trastuzumab emtansine,Prescription,L,Antineoplastic and immunomodulating agents,224,500
+DDInter1849,Travoprost,Prescription,NA,NA,126,126
+DDInter1850,Travoprost (ophthalmic),Prescription,S,Sensory organs,6,12
+DDInter1851,Trazodone,Prescription,N,Nervous system,694,1381
+DDInter1852,Treprostinil,Prescription,B,Blood and blood forming organs,321,636
+DDInter1853,Tretinoin,Prescription,L,Antineoplastic and immunomodulating agents,316,457
+DDInter1854,Tretinoin (topical),Prescription,D,Dermatologicals,11,23
+DDInter1855,Triamcinolone,Prescription,H,Systemic hormonal preparations,695,1191
+DDInter1856,Triamcinolone (nasal),Excluded (topical OTC),R,Respiratory system,30,60
+DDInter1857,Triamcinolone (ophthalmic),Prescription,NA,NA,206,430
+DDInter1858,Triamcinolone (topical),Prescription,D,Dermatologicals,44,44
+DDInter1859,Triamterene,Prescription,C,Cardiovascular system,300,614
+DDInter1860,Triazolam,Prescription,N,Nervous system,599,1065
+DDInter1861,Trichlormethiazide,Prescription,NA,NA,357,694
+DDInter1862,Trichophyton mentagrophytes,Prescription,NA,NA,214,428
+DDInter1863,Triclabendazole,Prescription,NA,NA,225,505
+DDInter1864,Triethylenetetramine,Prescription,NA,NA,27,51
+DDInter1865,Trifarotene (topical),Prescription,D,Dermatologicals,11,23
+DDInter1866,Trifluoperazine,Prescription,NA,NA,642,1366
+DDInter1867,Triflupromazine,Prescription,NA,NA,559,1196
+DDInter1868,Trifluridine,Prescription,L,Antineoplastic and immunomodulating agents,81,190
+DDInter1869,Triheptanoin,Prescription,A,Alimentary tract and metabolism,1,3
+DDInter1870,Trihexyphenidyl,Prescription,N,Nervous system,377,676
+DDInter1871,Trimethadione,Prescription,NA,NA,202,411
+DDInter1872,Trimethaphan,Prescription,NA,NA,149,297
+DDInter1873,Trimethobenzamide,Prescription,NA,NA,223,448
+DDInter1874,Trimethoprim,Prescription,J,Antiinfectives for systemic use,251,377
+DDInter1875,Trimetrexate,Prescription,NA,NA,113,251
+DDInter1876,Trimipramine,Prescription,N,Nervous system,640,1352
+DDInter1877,Trioxsalen,Prescription,NA,NA,5,10
+DDInter1878,Tripelennamine,Prescription,NA,NA,260,523
+DDInter1879,Triprolidine,Prescription,R,Respiratory system,289,582
+DDInter1880,Triptorelin,Prescription,L,Antineoplastic and immunomodulating agents,261,575
+DDInter1881,Troglitazone,Prescription,NA,NA,422,820
+DDInter1882,Troleandomycin,Prescription,NA,NA,367,849
+DDInter1883,Tromethamine,Prescription,NA,NA,30,51
+DDInter1884,Tropicamide,Prescription,NA,NA,18,18
+DDInter1885,Tropicamide (ophthalmic),Prescription,S,Sensory organs,16,32
+DDInter1886,Trospium,Prescription,NA,NA,205,400
+DDInter1887,Trovafloxacin,Prescription,NA,NA,232,455
+DDInter1888,Tryptophan,Prescription,N,Nervous system,72,196
+DDInter1889,Tuberculin purified protein derivative,Prescription,NA,NA,214,428
+DDInter1890,Tubocurarine,Prescription,NA,NA,122,250
+DDInter1891,Tucatinib,Prescription,L,Antineoplastic and immunomodulating agents,392,911
+DDInter1892,Turmeric,Prescription,NA,NA,81,126
+DDInter1893,Typhoid vaccine (inactivated),Prescription,NA,NA,179,358
+DDInter1894,Typhoid vaccine (live),Prescription,NA,NA,327,969
+DDInter1895,Tyropanoic acid,Prescription,NA,NA,45,89
+DDInter1896,Ubrogepant,Prescription,N,Nervous system,161,355
+DDInter1897,Ulipristal,Prescription,G,Genito-urinary system and sex hormones,160,285
+DDInter1898,Ulobetasol (topical),Prescription,NA,NA,44,44
+DDInter1899,Umeclidinium,Prescription,R,Respiratory system,101,201
+DDInter1900,Unoprostone (ophthalmic),Prescription,NA,NA,6,12
+DDInter1901,Upadacitinib,Prescription,L,Antineoplastic and immunomodulating agents,355,971
+DDInter1902,Uracil mustard,Prescription,NA,NA,87,192
+DDInter1903,Urea,Prescription,NA,NA,54,107
+DDInter1904,Urofollitropin,Prescription,NA,NA,1,2
+DDInter1905,Urokinase,Prescription,NA,NA,122,278
+DDInter1906,Ursodeoxycholic acid,Prescription,NA,NA,271,271
+DDInter1907,Ustekinumab,Prescription,L,Antineoplastic and immunomodulating agents,333,688
+DDInter1908,Valaciclovir,Prescription,NA,NA,367,429
+DDInter1909,Valbenazine,Prescription,NA,NA,456,1018
+DDInter1910,Valdecoxib,Prescription,NA,NA,481,780
+DDInter1911,Valerian,Prescription,NA,NA,236,474
+DDInter1912,Valganciclovir,Prescription,J,Antiinfectives for systemic use,338,553
+DDInter1913,Valproic acid,Prescription,N,Nervous system,652,1021
+DDInter1914,Valrubicin,Prescription,NA,NA,5,12
+DDInter1915,Valsartan,Prescription,C,Cardiovascular system,583,845
+DDInter1916,Vancomycin,Prescription,J,Antiinfectives for systemic use,454,591
+DDInter1917,Vandetanib,Prescription,L,Antineoplastic and immunomodulating agents,293,771
+DDInter1918,Vardenafil,Prescription,G,Genito-urinary system and sex hormones,531,1027
+DDInter1919,Varenicline,Prescription,N,Nervous system,275,281
+DDInter1920,Varicella Zoster Vaccine (Recombinant),Prescription,NA,NA,204,597
+DDInter1921,Vasopressin,Prescription,H,Systemic hormonal preparations,262,575
+DDInter1922,Vecuronium,Prescription,NA,NA,238,408
+DDInter1923,Vedolizumab,Prescription,L,Antineoplastic and immunomodulating agents,68,155
+DDInter1924,Velpatasvir,Prescription,J,Antiinfectives for systemic use,83,184
+DDInter1925,Vemurafenib,Prescription,L,Antineoplastic and immunomodulating agents,536,1273
+DDInter1926,Venetoclax,Prescription,L,Antineoplastic and immunomodulating agents,295,730
+DDInter1927,Venlafaxine,Prescription,N,Nervous system,854,1617
+DDInter1928,Verapamil,Prescription,C,Cardiovascular system,766,1366
+DDInter1929,Verteporfin,Prescription,S,Sensory organs,269,492
+DDInter1930,Vibegron,Prescription,NA,NA,9,18
+DDInter1931,Vibrio cholerae CVD 103-HgR strain live antigen,Prescription,NA,NA,179,358
+DDInter1932,Vibrio cholerae CVD 103-HgR strain live antigen (live),Prescription,NA,NA,319,772
+DDInter1933,Vigabatrin,Prescription,N,Nervous system,263,548
+DDInter1934,Vilanterol,Prescription,R,Respiratory system,385,773
+DDInter1935,Vilazodone,Prescription,N,Nervous system,386,876
+DDInter1936,Vinblastine,Prescription,L,Antineoplastic and immunomodulating agents,370,748
+DDInter1937,Vincristine,Prescription,L,Antineoplastic and immunomodulating agents,504,867
+DDInter1938,Vincristine (liposome),Prescription,L,Antineoplastic and immunomodulating agents,311,662
+DDInter1939,Vinorelbine,Prescription,L,Antineoplastic and immunomodulating agents,465,847
+DDInter1940,Vismodegib,Prescription,L,Antineoplastic and immunomodulating agents,55,91
+DDInter1941,Vitamin A,Prescription,B,Blood and blood forming organs,68,96
+DDInter1942,Vitamin D,Prescription,B,Blood and blood forming organs,181,181
+DDInter1943,Vitamin E,Prescription,B,Blood and blood forming organs,179,302
+DDInter1944,Von Willebrand Factor Human,Prescription,NA,NA,1,3
+DDInter1945,Vorapaxar,Prescription,NA,NA,180,472
+DDInter1946,Voriconazole,Prescription,J,Antiinfectives for systemic use,689,1489
+DDInter1947,Vorinostat,Prescription,L,Antineoplastic and immunomodulating agents,52,106
+DDInter1948,Vortioxetine,Prescription,N,Nervous system,325,738
+DDInter1949,Voxelotor,Prescription,NA,NA,273,602
+DDInter1950,Voxilaprevir,Prescription,J,Antiinfectives for systemic use,35,76
+DDInter1951,Warfarin,Prescription,B,Blood and blood forming organs,864,1500
+DDInter1952,Xylometazoline (nasal),Excluded (topical OTC),R,Respiratory system,49,103
+DDInter1953,Yellow Fever Vaccine,Prescription,J,Antiinfectives for systemic use,228,662
+DDInter1954,Yohimbine,Prescription,NA,NA,26,51
+DDInter1955,Zafirlukast,Prescription,NA,NA,372,607
+DDInter1956,Zalcitabine,Prescription,NA,NA,122,246
+DDInter1957,Zaleplon,Prescription,NA,NA,448,795
+DDInter1958,Zanamivir,Prescription,J,Antiinfectives for systemic use,10,11
+DDInter1959,Zanubrutinib,Prescription,L,Antineoplastic and immunomodulating agents,270,707
+DDInter1960,Ziconotide,Prescription,NA,NA,234,470
+DDInter1961,Zidovudine,Prescription,J,Antiinfectives for systemic use,414,717
+DDInter1962,Zileuton,Prescription,NA,NA,110,214
+DDInter1963,Zinc acetate,OTC,B,Blood and blood forming organs,100,136
+DDInter1964,Zinc chloride,Prescription,NA,NA,76,92
+DDInter1965,Zinc gluconate,Prescription,NA,NA,103,141
+DDInter1966,Zinc sulfate,OTC,S,Sensory organs,103,141
+DDInter1967,Ziprasidone,Prescription,N,Nervous system,738,1580
+DDInter1968,Zoledronic acid,Prescription,M,Musculo-skeletal system,390,513
+DDInter1969,Zolmitriptan,Prescription,N,Nervous system,227,369
+DDInter1970,Zolpidem,Prescription,N,Nervous system,736,1161
+DDInter1971,Zonisamide,Prescription,NA,NA,465,907
+DDInter1972,Zopiclone,Prescription,N,Nervous system,285,285
+DDInter805,gamma-Aminobutyric acid,Prescription,NA,NA,46,46

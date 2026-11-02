@@ -1,0 +1,61 @@
+dpd_names,key,base,n_otc,otc_single,atc_code
+OCTISALATE,octisalate,octisalate,429,TRUE,D02BA30
+AVOBENZONE,avobenzone,avobenzone,416,FALSE,D02BA30
+OCTOCRYLENE,octocrylene,octocrylene,400,FALSE,D02BA30
+HOMOSALATE,homosalate,homosalate,362,FALSE,D02BA30
+OCTINOXATE,octinoxate,octinoxate,97,TRUE,D02BA02
+PYRITHIONE ZINC,pyrithione zinc,pyrithione zinc,70,TRUE,D11AX12
+GUAIFENESIN,guaifenesin,guaifenesin,68,TRUE,R05CA03
+ZINC OXIDE,zinc oxide,zinc oxide,49,FALSE,D02BA30
+OXYBENZONE,oxybenzone,oxybenzone,47,FALSE,D02BA30
+DROMETRIZOLE TRISILOXANE,drometrizole trisiloxane,drometrizole trisiloxane,30,FALSE,D02BA30
+TITANIUM DIOXIDE,titanium dioxide,titanium dioxide,29,FALSE,D02BA30
+MENTHOL,menthol,menthol,23,FALSE,R05CA03
+ENSULIZOLE,ensulizole,ensulizole,21,FALSE,D02BA30
+BEMOTRIZINOL,bemotrizinol,bemotrizinol,17,FALSE,D02BA30
+GRAMICIDIN,gramicidin,gramicidin,13,FALSE,D06AX30
+ISOPROPYL ALCOHOL,isopropyl alcohol,isopropyl alcohol,12,FALSE,D08AC52
+TOLNAFTATE,tolnaftate,tolnaftate,12,TRUE,D01AE18
+TROLAMINE SALICYLATE,trolamine salicylate,trolamine salicylate,11,TRUE,M02AC
+CHLOROXYLENOL,chloroxylenol,chloroxylenol,10,TRUE,D08AE05
+DIMETHICONE,dimethicone,dimethicone,10,TRUE,D02AA
+PRAMOXINE HYDROCHLORIDE,pramoxine hydrochloride,pramoxine,10,TRUE,D04AB07
+WHITE PETROLATUM,white petrolatum,white petrolatum,10,TRUE,D02AC
+CARBOXYMETHYLCELLULOSE SODIUM,carboxymethylcellulose sodium,carboxymethylcellulose,9,TRUE,S01XA20
+HYPROMELLOSE,hypromellose,hypromellose,8,TRUE,S01XA20
+PETROLATUM,petrolatum,petrolatum,7,TRUE,D02AC
+TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID,terephthalylidene dicamphor sulfonic acid,terephthalylidene dicamphor sulfonic acid,7,FALSE,D02BA30
+PHENIRAMINE MALEATE,pheniramine maleate,pheniramine,6,FALSE,N02BE51
+TRICLOSAN,triclosan,triclosan,6,TRUE,D08AE04
+AMYLMETACRESOL,amylmetacresol,amylmetacresol,5,FALSE,R02AA03
+BISOCTRIZOLE,bisoctrizole,bisoctrizole,5,FALSE,D02BA30
+CAMPHOR,camphor,camphor,5,FALSE,R05CA10
+DICHLOROBENZYL ALCOHOL,dichlorobenzyl alcohol,dichlorobenzyl alcohol,5,FALSE,R02AA03
+PROPYLENE GLYCOL,propylene glycol,propylene glycol,5,FALSE,R01AX10
+SENNOSIDES,sennosides,sennosides,5,FALSE,A06AB56
+DEXTRAN 70,dextran 70,dextran 70,4,FALSE,S01XA20
+GUAIACOL CARBONATE,guaiacol carbonate,guaiacol carbonate,4,FALSE,R05CA10
+HEXYLRESORCINOL,hexylresorcinol,hexylresorcinol,4,TRUE,R02AA12
+PERMETHRIN,permethrin,permethrin,4,TRUE,P03AC04
+BENZETHONIUM CHLORIDE,benzethonium chloride,benzethonium chloride,3,TRUE,D08AJ08
+CALAMINE,calamine,calamine,3,FALSE,D04AA32
+CETRIMONIUM BROMIDE,cetrimonium bromide,cetrimonium,3,TRUE,D08AJ02
+POLYETHYLENE GLYCOL 400,polyethylene glycol 400,polyethylene glycol 400,3,FALSE,S01GA52
+POLYVINYL ALCOHOL,polyvinyl alcohol,polyvinyl alcohol,3,TRUE,S01XA20
+POVIDONE,povidone,povidone,3,FALSE,S01GA52
+BENZYL ALCOHOL,benzyl alcohol,benzyl alcohol,2,FALSE,D04AB04
+DIPHENYLPYRALINE HYDROCHLORIDE,diphenylpyraline hydrochloride,diphenylpyraline,2,FALSE,R05CA10
+EUCALYPTOL,eucalyptol,eucalyptol,2,FALSE,R05CA10
+GUAIACOL,guaiacol,guaiacol,2,FALSE,R05CA10
+LEVOMENTHOL,levomenthol,levomenthol,2,FALSE,R02AA03
+ALCOHOL ANHYDROUS,alcohol anhydrous,alcohol,1,FALSE,D08AC52
+BISMUTH DIPROPYLACETATE,bismuth dipropylacetate,bismuth dipropylacetate,1,TRUE,R02AA20
+CLOBETASONE BUTYRATE,clobetasone butyrate,clobetasone butyrate,1,TRUE,D07AB01
+DEQUALINIUM CHLORIDE,dequalinium chloride,dequalinium chloride,1,TRUE,G01AC05
+HAMAMELIS VIRGINIANA,hamamelis virginiana,hamamelis virginiana,1,FALSE,C05AX03
+ISOPROPYL MYRISTATE,isopropyl myristate,isopropyl myristate,1,TRUE,P03AX
+LANOLIN,lanolin,lanolin,1,FALSE,D02AC
+PAMABROM,pamabrom,pamabrom,1,FALSE,N02BE51
+PHENOL,phenol,phenol,1,FALSE,V07AB
+POLYSORBATE 80,polysorbate 80,polysorbate 80,1,FALSE,S01XA20
+SILICONE,silicone,silicone,1,TRUE,D02AA

@@ -1,0 +1,26 @@
+# Hand-made name fixes for DPD ingredients the automatic matching misses.
+# One row per DPD ingredient. Fill in from data/processed/unmatched_otc_ingredients.csv:
+#   dpd_ingredient = the name as written in DPD (any case)
+#   ddinter_name   = the drug's name in data/processed/ddinter_drugs.csv
+#   note           = why (e.g. "UK/US name", "DrugBank uses INN")
+dpd_ingredient,ddinter_name,note
+BENZALKONIUM CHLORIDE,Benzalkonium (topical),DDInter drops the salt and adds route
+CETYLPYRIDINIUM CHLORIDE,Cetylpyridinium (topical),DDInter drops the salt and adds route
+POLYETHYLENE GLYCOL 3350,Polyethylene glycol (3350),DDInter puts the grade in brackets
+MACROGOL,Polyethylene glycol (3350),INN name for PEG 3350 laxative
+CHARCOAL ACTIVATED,Activated charcoal,word order
+GLYCERINE,Glycerin,spelling
+TETRAHYDROZOLINE HYDROCHLORIDE,Tetryzoline (ophthalmic),US name vs INN
+BACITRACIN ZINC,Bacitracin,zinc salt
+DICLOFENAC DIETHYLAMINE,Diclofenac (topical),OTC diclofenac is the topical gel
+PYRILAMINE MALEATE,Mepyramine,US name vs INN
+CROMOLYN SODIUM,Cromoglicic acid,US name vs INN
+DRIED ALUMINUM HYDROXIDE GEL,Aluminum hydroxide,dosage-form wording
+TRIAMCINOLONE ACETONIDE,Triamcinolone (nasal),OTC form is the nasal spray
+MINERAL OIL LIGHT,Mineral oil,grade wording
+# Deliberately NOT mapped:
+#   ALCOHOL ANHYDROUS -> Ethanol: antiseptic use; DDInter's Ethanol node means drinking alcohol
+#   DEXTRAN 70 -> Dextran: OTC product is eye drops; DDInter dextrans are IV plasma expanders
+#   CLOBETASONE BUTYRATE -> Clobetasol: different steroid
+#   DIMETHICONE -> Simethicone: different product (simethicone = dimethicone + silica)
+#   Sunscreens, antiseptics, excipients, guaifenesin, permethrin, sennosides, menthol: not in DDInter
