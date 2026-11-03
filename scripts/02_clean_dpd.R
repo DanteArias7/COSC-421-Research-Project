@@ -228,6 +228,11 @@ drug_labels <- ddinter |>
   group_by(ddinter_id, name, node_route) |>
   summarise(
     in_dpd       = any(!is.na(dpd_key)),
+    # OTC flags counting only products that are swallowed/injected (systemic).
+    # FALSE for e.g. ketoconazole, whose only OTC product is a shampoo.
+    # (Must come BEFORE otc_any/otc_single below, which overwrite those columns.)
+    otc_any_systemic    = any(otc_any & route_ok & route_class == "systemic", na.rm = TRUE),
+    otc_single_systemic = any(otc_single & route_ok & route_class == "systemic", na.rm = TRUE),
     otc_any      = any(otc_any & route_ok, na.rm = TRUE),
     otc_single   = any(otc_single & route_ok, na.rm = TRUE),
     # ATC from a route-matched product: single-ingredient codes first, then the

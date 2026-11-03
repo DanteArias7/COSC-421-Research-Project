@@ -159,7 +159,7 @@ DDInter157,Azithromycin,Prescription,J,Antiinfectives for systemic use,526,896
 DDInter158,Aztreonam,Prescription,J,Antiinfectives for systemic use,49,65
 DDInter159,Bacampicillin,Prescription,NA,NA,49,94
 DDInter160,Bacillus calmette-guerin substrain tice live antigen,Prescription,NA,NA,184,547
-DDInter161,Bacitracin,OTC,J,Antiinfectives for systemic use,84,184
+DDInter161,Bacitracin,Excluded (topical OTC),J,Antiinfectives for systemic use,84,184
 DDInter162,Baclofen,Prescription,M,Musculo-skeletal system,457,823
 DDInter163,Baloxavir marboxil,Prescription,J,Antiinfectives for systemic use,33,66
 DDInter164,Balsalazide,Prescription,NA,NA,196,370
@@ -354,7 +354,7 @@ DDInter352,Chloramphenicol (ophthalmic),Prescription,NA,NA,88,176
 DDInter353,Chloramphenicol (otic),Prescription,NA,NA,4,8
 DDInter354,Chlorcyclizine,Prescription,NA,NA,176,356
 DDInter355,Chlordiazepoxide,Prescription,N,Nervous system,432,834
-DDInter356,Chlorhexidine,OTC,A,Alimentary tract and metabolism,143,143
+DDInter356,Chlorhexidine,Excluded (topical OTC),A,Alimentary tract and metabolism,143,143
 DDInter357,Chlormezanone,Prescription,NA,NA,222,468
 DDInter358,Chloroprocaine,Prescription,N,Nervous system,34,69
 DDInter359,Chloroquine,Prescription,NA,NA,465,1090
@@ -414,7 +414,7 @@ DDInter412,Clonidine,Prescription,C,Cardiovascular system,602,976
 DDInter413,Clopidogrel,Prescription,B,Blood and blood forming organs,614,880
 DDInter414,Clorazepic acid,Prescription,NA,NA,447,892
 DDInter415,Clostridium tetani toxoid antigen (formaldehyde inactivated),Prescription,NA,NA,210,418
-DDInter416,Clotrimazole,OTC,G,Genito-urinary system and sex hormones,473,711
+DDInter416,Clotrimazole,Excluded (topical OTC),G,Genito-urinary system and sex hormones,473,711
 DDInter417,Clove,Prescription,NA,NA,64,64
 DDInter418,Cloxacillin,Prescription,J,Antiinfectives for systemic use,28,55
 DDInter419,Clozapine,Prescription,N,Nervous system,889,2115
@@ -447,7 +447,7 @@ DDInter445,Corticotropin,Prescription,NA,NA,271,556
 DDInter446,Cranberry,Prescription,NA,NA,2,4
 DDInter447,Creatine,Prescription,NA,NA,5,7
 DDInter448,Crizotinib,Prescription,L,Antineoplastic and immunomodulating agents,564,1376
-DDInter449,Cromoglicic acid,OTC,S,Sensory organs,98,99
+DDInter449,Cromoglicic acid,Excluded (topical OTC),S,Sensory organs,98,99
 DDInter450,Crotalus scutulatus antivenin,Prescription,NA,NA,21,42
 DDInter451,Cyanocobalamin,Prescription,NA,NA,313,315
 DDInter452,Cyclandelate,Prescription,NA,NA,62,123
@@ -829,7 +829,7 @@ DDInter828,Glucarpidase,Prescription,NA,NA,8,16
 DDInter829,Glucosamine,Prescription,NA,NA,3,6
 DDInter830,Glutamic acid,Prescription,B,Blood and blood forming organs,5,10
 DDInter831,Glyburide,Prescription,A,Alimentary tract and metabolism,632,1068
-DDInter832,Glycerin,OTC,V,Various,220,434
+DDInter832,Glycerin,Excluded (topical OTC),V,Various,220,434
 DDInter833,Glycerol phenylbutyrate,Prescription,A,Alimentary tract and metabolism,191,383
 DDInter834,Glycopyrronium,Prescription,R,Respiratory system,196,377
 DDInter835,Glycopyrronium (topical),Prescription,NA,NA,99,197
@@ -1005,7 +1005,7 @@ DDInter1004,Kanamycin,Prescription,NA,NA,174,382
 DDInter1005,Kaolin,Prescription,NA,NA,84,153
 DDInter1006,Kava,Prescription,NA,NA,234,473
 DDInter1007,Ketamine,Prescription,N,Nervous system,361,707
-DDInter1008,Ketoconazole,OTC,J,Antiinfectives for systemic use,656,1400
+DDInter1008,Ketoconazole,Excluded (topical OTC),J,Antiinfectives for systemic use,656,1400
 DDInter1009,Ketoprofen,Prescription,M,Musculo-skeletal system,469,843
 DDInter1010,Ketorolac,Prescription,M,Musculo-skeletal system,482,882
 DDInter1011,Ketorolac (ophthalmic),Prescription,S,Sensory organs,72,143
@@ -1246,7 +1246,7 @@ DDInter1245,Morphine (liposomal),Prescription,N,Nervous system,295,685
 DDInter1246,Moxetumomab Pasudotox,Prescription,NA,NA,34,85
 DDInter1247,Moxifloxacin,Prescription,S,Sensory organs,642,1254
 DDInter1248,Mumps virus strain B level jeryl lynn live antigen,Prescription,NA,NA,184,547
-DDInter1249,Mupirocin,OTC,D,Dermatologicals,117,117
+DDInter1249,Mupirocin,Excluded (topical OTC),D,Dermatologicals,117,117
 DDInter1250,Muromonab,Prescription,NA,NA,69,159
 DDInter1251,Mycophenolate mofetil,Prescription,L,Antineoplastic and immunomodulating agents,199,416
 DDInter1252,Mycophenolic acid,Prescription,L,Antineoplastic and immunomodulating agents,298,551
@@ -1315,7 +1315,7 @@ DDInter1314,Norgestimate,Prescription,G,Genito-urinary system and sex hormones,8
 DDInter1315,Norgestrel,Prescription,NA,NA,209,437
 DDInter1316,Nortriptyline,Prescription,N,Nervous system,740,1443
 DDInter1317,Novobiocin,Prescription,NA,NA,4,8
-DDInter1318,Nystatin,OTC,A,Alimentary tract and metabolism,347,347
+DDInter1318,Nystatin,Excluded (topical OTC),A,Alimentary tract and metabolism,347,347
 DDInter1319,Obeticholic acid,Prescription,A,Alimentary tract and metabolism,49,97
 DDInter1320,Obinutuzumab,Prescription,L,Antineoplastic and immunomodulating agents,80,188
 DDInter1321,Ocrelizumab,Prescription,L,Antineoplastic and immunomodulating agents,279,578
@@ -1485,7 +1485,7 @@ DDInter1485,Polatuzumab vedotin,Prescription,L,Antineoplastic and immunomodulati
 DDInter1486,Poliovirus type 1 antigen (formaldehyde inactivated),Prescription,NA,NA,186,372
 DDInter1487,Polyethylene glycol (3350 with electrolytes),OTC,A,Alimentary tract and metabolism,374,780
 DDInter1488,Polyethylene glycol (3350),OTC,A,Alimentary tract and metabolism,203,405
-DDInter1489,Polymyxin B,OTC,S,Sensory organs,72,189
+DDInter1489,Polymyxin B,Excluded (topical OTC),S,Sensory organs,72,189
 DDInter1490,Polythiazide,Prescription,NA,NA,411,802
 DDInter1491,Pomalidomide,Prescription,L,Antineoplastic and immunomodulating agents,258,572
 DDInter1492,Ponatinib,Prescription,L,Antineoplastic and immunomodulating agents,448,1015
@@ -1959,7 +1959,7 @@ DDInter1959,Zanubrutinib,Prescription,L,Antineoplastic and immunomodulating agen
 DDInter1960,Ziconotide,Prescription,NA,NA,234,470
 DDInter1961,Zidovudine,Prescription,J,Antiinfectives for systemic use,414,717
 DDInter1962,Zileuton,Prescription,NA,NA,110,214
-DDInter1963,Zinc acetate,OTC,B,Blood and blood forming organs,100,136
+DDInter1963,Zinc acetate,Excluded (topical OTC),B,Blood and blood forming organs,100,136
 DDInter1964,Zinc chloride,Prescription,NA,NA,76,92
 DDInter1965,Zinc gluconate,Prescription,NA,NA,103,141
 DDInter1966,Zinc sulfate,OTC,S,Sensory organs,103,141

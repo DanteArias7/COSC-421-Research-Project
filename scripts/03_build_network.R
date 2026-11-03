@@ -17,8 +17,12 @@ SEVERITY_WEIGHTS  <- c(Major = 3, Moderate = 2, Minor = 1)
 INCLUDE_UNKNOWN   <- TRUE       # keep "Unknown"-severity edges?
 UNKNOWN_WEIGHT    <- 1          # their weight, if kept
 OTC_RULE          <- "otc_any"  # or "otc_single" (single-ingredient products only)
-OTC_SYSTEMIC_ONLY <- TRUE       # TRUE: topical/eye/nasal/ear OTC products are put in
-                                # their own "Excluded (topical OTC)" group
+OTC_SYSTEMIC_ONLY <- TRUE       # TRUE: drugs whose only OTC products are topical/eye/
+                                # nasal/ear (e.g. ketoconazole shampoo) are put in their
+                                # own "Excluded (topical OTC)" group
+# Checked by hand: only "oral" OTC products are kits pairing an oral fluconazole
+# pill with a clotrimazole cream (DPD gives the whole kit both routes).
+TOPICAL_ONLY_OVERRIDE <- c("Clotrimazole")
 
 atc_names <- c(
   A = "Alimentary tract and metabolism", B = "Blood and blood forming organs",
@@ -45,14 +49,15 @@ deg <- bind_rows(edges |> transmute(id = from, weight), edges |> transmute(id = 
 drugs <- labels |>
   inner_join(deg, by = c("ddinter_id" = "id")) |>   # drops drugs left with no edges
   mutate(
-    is_otc = .data[[OTC_RULE]],
-    local  = node_route %in% c("topical", "ophthalmic", "nasal", "otic")
+    is_otc     = .data[[OTC_RULE]],
+    is_otc_sys = .data[[paste0(OTC_RULE, "_systemic")]] &  # OTC as a pill/liquid/injection
+                 !name %in% TOPICAL_ONLY_OVERRIDE
   ) |>
   transmute(
     id = ddinter_id,
     name,
     group = case_when(
-      is_otc & local & OTC_SYSTEMIC_ONLY ~ "Excluded (topical OTC)",
+      is_otc & !is_otc_sys & OTC_SYSTEMIC_ONLY ~ "Excluded (topical OTC)",
       is_otc                             ~ "OTC",
       TRUE                               ~ "Prescription"
     ),
