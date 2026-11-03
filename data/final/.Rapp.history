@@ -1,6 +1,0 @@
-load("/Users/aaronhong/Documents/UBCO 2027/COSC 421/Drug Interaction Network/data/final/network.rds")
-library(igraph)#
-g <- readRDS("/Users/aaronhong/Documents/UBCO 2027/COSC 421/Drug Interaction Network/data/final/network.rds")#
-g
-plot(g)
-load("/Users/aaronhong/Documents/UBCO 2027/COSC 421/Drug Interaction Network/data/final/network.rds")
