@@ -127,3 +127,9 @@ Never edit data files by hand: fix a script or `data/manual/manual_crosswalk.csv
 - **Manual crosswalk:** 14 Health Canada -> DDInter name fixes in
   `data/manual/manual_crosswalk.csv`, with deliberately unmapped cases listed at the bottom.
 - **Weights:** Major 3, Moderate 2, Minor 1, Unknown 1.
+
+
+## Report Outline
+
+Link: https://docs.google.com/document/d/1z0v2d01w0kroPhLeILHJciOKOHmuErjGBvveVJ2Yydk/edit?usp=sharing
+
